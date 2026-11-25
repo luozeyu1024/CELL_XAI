@@ -1,0 +1,7522 @@
+[
+  {
+    "cell_id": "AAACCTGAGGCAGTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAACCTGAGGCGCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAACCTGCACCAGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAACCTGGTGTATGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGATGAGCTGATAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGATGCAGACAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGATGGTAAAGTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGATGGTCGCTTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGATGGTTGTTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGATGTCCTTAATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGCAACATCGGAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGCAATCTCGATGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGTAGGTGCCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGTAGTCAGGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGTAGTCGAGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAATGCCAGCTAGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAATGCCAGGACTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAATGCCCAGTTCCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAATGCCCATCGGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAATGCCTCATGGTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAATGCCTCCACTGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACACGTCAAACCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACACGTGTACCGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACCATGGTATAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACCATGGTGACCAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACCATGTCTCCCTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACCGCGAGCTATGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACGTTGCAGGTCCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACGTTGCATCACAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACGTTGTCCCACTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCAGGTCGAAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCAGGTGTATGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCCCAGATACACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCCCTCTCAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCTTGTAGCTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTGGTAGTAACCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTGGTGTCAATGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTGGTTCCTGTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTGGTTCCTTAATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTTTCGTCGCGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTTTCGTTAAGGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTTTCTCAGTCAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGACCTCATAACCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGACCTCATAGTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGACCTGTCACCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGAGCGTTACCGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGAGCGTTCGAATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGAGCTCGCGGATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGGTATCACCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGGTCTTCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGGTTCAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGTCATGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGTCGGCGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGTCGTCTGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGTCTTTCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGTTCAGAGAGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGTTCAGGATCGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGTTCAGTTGAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGTTCCACCTATCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGTTCTCCTTTCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGTCTGAGAAGGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGTCTGCACGAGAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGTCTGCAGATAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AATCCAGCACCAGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AATCCAGCAGCCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AATCCAGCAGCGTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AATCCAGTCTTATCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AATCCAGTCTTCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AATCGGTAGACTCGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCAAAGTATGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCAACAGCCAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCAACAGTCACTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCAATCTTAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCCTAGCTATGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCCTGTACTCTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCGGAGCACCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCGGCACCACCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCGGGTACCTACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACTGAAGGAGTCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACTGATCACCAGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCCGAGCACGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCCGCAGCAGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCCGGTCTGCCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCCGTCCGCAGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCTAAGCTAACAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCTAGTACAGTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCTATCCAAACTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGAGCTGCGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGAGTCAAGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGCAGCTGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGCAGGTGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGCATCACGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGGTCCTAGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATACGTCGCTTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATCAGAGTACGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATCAGCATTACCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATCAGGTGTGACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATGGTCAAGTAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATGGTTCGTCTGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCAGTACATCGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCAGTAGTTCGCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCAGTATCTGAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCCACTAGCAAATCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCCACTCAATGGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCCACTGTTTCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCCACTTCAGCCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCGTAACACCGGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCGTAACAGTAGAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCGTAACAGTATAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCGTAACATACGCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCGTAAGTAGGGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCTTTAAGCCATCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCTTTACACCCATTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCTTTACATCGACGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGAGCCAGTTGAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGAGCCGTCAGATAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGAGGATCTACTATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATACAGCTCTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATACCACGAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATACTCAAACCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATACTCTGGTATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATGTAGACCACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATGTCACACCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATGTCAGCCTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATGTGTGGCCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGATGTTCTCAACTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCAGCCAAAGTCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCAGCCAAGGTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCAGCGTCAGTGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCAGCGTGGGTCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCAGCGTGTCAATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCCAGTCAACACCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCCGAAGAGACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCCGATCAACTCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCCGATCATACGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGCCAAGATCCGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGCCAGTATTAGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGCCATCAACTCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGGCTAGACAATAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGGCTAGTGTACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGGCTCAGTCACTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGGCTCATGCCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGGCTGTTCTGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGGTCGTACCGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGTCAACACAGAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGTCAACATCCGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGTCAAGTAAGGATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGTCAATCATGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTATCTAGGTGTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTATCTCATTATCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTATCTGTGCACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTATCTTCGACCAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAACGTAGCTTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAACTCCAATGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAACTCTTAGAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAGTAGCCAGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAGTCACTCTGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAGTCATGTTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGAGTGTAAACCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGATGTCTGAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGCTCAGAGTTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGCTCCACACATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGCTCTCAGAGCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGCTCTCCTTCAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGTCCTCAGCCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGTCCTCGGTGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTACTAGTAGTGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTACTGTCTGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTACTTCAACGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTGTTAGGCAATTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTGTTTCAACACCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTTCAGTAGAGGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTTCAGTGACAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTTCATCACATACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTTCATCATGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTTCATCCGCATAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAATAGAGGGATACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAATAGGTACCCAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGACGTTCACGAGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGACGTTCAGTAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGACGTTGTATAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGACGTTGTCCATCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGCGAAGAAACCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGCGACAGCGTCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGCTTCATGTCGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGCTTGTATTCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGCTTGTCCAAGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGTGGCAATCCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGTGGGTCCTCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGAGTGGTCTAGAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATCTGAGCGTTCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATCTGCACGAAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATCTGGTTCGGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATCTGTCTCAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATTGCAGGTAGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATTGCAGTGGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATTGCTCCTTTCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCAGCAGGTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCAGTGGTAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCCAATCGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCCACGCTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCCATCACCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCGTCGATTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCAGCCTCACCGTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCATACAGAAGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCATACGTAAGGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCATACGTCGCCATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCCTAACAGCATGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCCTAACAGGTGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCCTAAGTAGAGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGGTCCACTAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGGTCGTATTAGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGGTCTCGCCAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGGTCTCTGAGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTATAGCGTGAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTATGTCGAGATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTATTCGTTTATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTATTCTATCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTCGAGTGTTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTCGCAGACGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTCGCAGGAATGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCCTAGCCAGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCCTCAGACGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCCTTCAACACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCCTTCTAACTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCTCAGTTGTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCTCCAAGGTTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCTCCAAGTTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCTCCACCGTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCTCGTTGTTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTCTCTCAAAGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTTGACATGCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTTGAGTTTGACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGCCACAGCTAGTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGCCACTCGCGGATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGCCGTCACCGAAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGCCGTGTGGGTATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGCCGTTCTCTGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGAGTGTCAGCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGAGTGTTATCCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGAGTGTTGGTTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGATGTCAGCTCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGATGTCAGTTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGATGTCTTTCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGTGACAAAGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGTGACATGGGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGTGAGTGTGCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCATAGCACCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCATGTAGGACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGAGACATAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGAGCCTATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGAGCGATGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGCAATTCCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGCACTGTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGCAGCGTCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGTCAGTACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGTCCGTCCGCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTAGTCGTTGTTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTCTTTCAGTAACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTCTTTGTGCAGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTCTTTGTTACGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGAGGTCCCAACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGAGGTCTCGAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGGGACAGGTCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGGGACATACTACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGGGATCCTTGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGTCACAACGCACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGTCATCCAGGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGTCATCTAGAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTTGGTTCTGGCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAACGCAGAGAGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAACGCGTCAACATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAACGCGTTTAGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAACGCTCTGTCCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAAGAGAGTCGTTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAAGAGCAACTGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAGACCAGAATTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAGACCAGCAGATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAGACCTCCCTCTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAGACCTCTTTAGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCACGACATTTCAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCACGAGTTAAGGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATCTAGGCTAGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATCTCATGCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATCTGTATTCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATCTTCGAGAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATCTTCTCGATGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATGGAGTACCGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATGGCATGCCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATGGGTTCGCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCACCAGACAATAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCACCAGCTACCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCACCTCGCCAGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCGAACACTGCCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCGAACACTTACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCGAGTAGATCGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCGAGTCATATACGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCGAGTCATGCCACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCGAGTCATTGGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCGAGTTCCGCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCGAGTTCCTTGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTACTAGTACGCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTACTCAAAGGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTACTGTAGGGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTACTGTATGAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTACTTCCACGTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTGCCAGTAGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTGCCAGTCAATAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTGCCAGTTCGATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTGCCGTACAGTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGAGGGCATCACCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGCGATAGACTGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGCGATGTACACCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGCGATGTCATTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGCGATGTGTTTGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGGGAGAGACCCACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGGGAGCAGCTGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGGGAGGTGGTCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGGGAGTCTCAAGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGTGTGGTAAGTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGTGTGGTCGCGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGTGTGGTGAGGGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTACTCTCAACTCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTACTCTCGCTGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTCTACCAATCCGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTCTACTCTAACTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGACAGACTTGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGACCAAACAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGACTCGACGGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGACTCGCAAGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGTGAGGGCTTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGTGGTAATAGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGTGGTTCTGAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGTGGTTGTACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGTGTCCTTAATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTTCTGGTTGCGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACCAAAGAAACGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACCAATCAGTTGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACCTCAGCCAACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACCTCGTGGTACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACCTCTCTGCTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACTAGCACGTGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGAAAAGAAGGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGAAAGTGTTCGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGAAAGTTCCAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGATCCAGACAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGGCCCATTTCAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGGCCTCGGCATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGTTGAGGGCTTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGTTGCACATGACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGTTGGTAAGAGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGTTGGTACCGTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGTTGTCCGAATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGTTGTCTTCGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAAACCAATAGCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAAACCATTGTGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAAACGTCTTCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAAACGTTTGACTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAAACTCGGCCGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACAAAGGCAATTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACAACAATCAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACCTAGAAGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACCTAGGCTATCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACCTGTGTGTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACTCAGATGTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACTCAGCCTTGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACTCCAGGCTCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACTCCAGGGTATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACTCTCCAGGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCAGCCAGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCCAAGAAAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCCAAGCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCCACGGACAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCCAGGCTCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCCATTCCTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGGCTCACTCTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGTACAATTGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGTACACCATCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGTACACCTGGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGTAGTTAGTGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGTATCAATAAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACAGTATCTCGGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACATAGAGAGGACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACATAGAGGTGCTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACATAGGTCCAGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACATAGTCGAGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACATTTCAGGTCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTAGAACAACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTAGGACTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTAGTGAATTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTGTACAGTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTGTCCCTTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTGTTCTCATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTTCCTGCAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCACTTCGCGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCAGGAGCGTGAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCAGGAGCTGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCTTGCACGAAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCTTGCAGCTCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCTTGTCCATTCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACTCCAGTATCACCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACTCCATCCTCAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CACTCCATCGCGATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGAATCGTCAATGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGAGAGCACTGTGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGATCACAGCCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGATCAGTCTCCATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGATCATCAGAGGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGATCATCTACTCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCAGGCTAGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCCAAAGGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCCAGCGATCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCGTAGGCTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCGTTGGGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCTCCACGTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATAAGAATAGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATACAAGTTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATACACCACCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATACACGGTGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATACACTCGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATAGTCTCGTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATATCAATCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCATATCGGAGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCCGAAGCTATGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCCGAAGTGTCCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCCGACAGAGCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCCGACATCCCATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCCGATCCGTAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCGACCACGGCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCGACCAGGGAGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCGACGTTGGTTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTAAAGCGATTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTAAGTAAACCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTAAGTCCCTTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTAAGTGTAATGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTAATCCGAGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTGGCAGGTCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTGGTCAAGCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTGGTCCTTTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTGGTCGGCGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGGTGCGTCACTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGGTGCTCACAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGGTGCTCTGACCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACAGACAAAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACAGATGCCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACAGCGTGAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACCAAGACACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACCAATCGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACTCACTCCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTAACTCTTTACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTCCTTCACGGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATATGGAGGATCGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATATTCCACGAAATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATATTCCAGTACACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATATTCGTAGCTAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATATTCTCTATCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAAGGTACTTCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAAGTCCGCGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAAGTCCGCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAAGTCCTCAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAGAAGCGAAGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAGAAGGAACTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAGACACTTGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAGACATCCGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAGATCAATACCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCCACAGCGGCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCCACCAAATTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCCACTCTGATTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGAAAGCTGAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGAAGTATCAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGAATCATCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGAATCCCAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGAATCCTTGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGGGAGTGTTGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGGGGTTCGCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCGGGTCGCTGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGACAAGGACAGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGACACACAACTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGACACACATTCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGACAGTTGGGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGACATCGTTACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGCCTAGGGCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGCCTAGTTAAGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGCCTTCGCACTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGAGTGGGATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGCAGTAACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGGTCTAACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGGTTTCCACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGTCAGCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGTCCGAAGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGGCGTCTGCTGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTATCAGTGCCAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTATCCAACTGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTATCCATTGAGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTATCCATTGGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTATCGTTATGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTATCTCACATACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTCGCAGCGCTTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTCGCTCCCAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CATTCGCTCTTCGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCAATCCAGGCTACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCAATCCAGGTAGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCAATCCGTGTTTGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCAATCCGTTTACTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCAATCCTCTTCGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACCTAAGCAACGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACCTACAGACAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACGGAAGTGTACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACGGACAGATCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACGGACATGCTAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACGGAGTCAACATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACGGATCTGCGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACGGATCTGTGCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACTACAGTGGAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACTACCAGCTGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACTACCATGTTGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACTACGTGAGGGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACTACTCGTTGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCAGCGAAGGCTCTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATGTCAGTCCGTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATGTCCAGCTGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATGTCCATCGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGAGCCCGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGAGCTAACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGCAATTGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGCATAGAAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGCATCCGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGTCAACGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCATTCGTCAGTCCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAATCAGACTGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAATCAGCAGATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAATCCAGTAGAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAATCCATGAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAATCTCAATAAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAGTTCAAGCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAGTTTCCTCGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCTCCTAGAATTGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCTCCTCAAATACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCTCCTCAGGATCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCTCCTCATTCTCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCTCCTGTTGAGGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCTCCTTCCTTTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGGGATAGGTGCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGGGATTCCTAGTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGGTAGAGTACACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGGTAGAGTAGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTACTAGCTGTTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTACTAGCTTTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTACTAGTTTCCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTACTGTGTGGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTACTTCCTAAGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTACTTCGGCGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTGGAGTAGCTCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTGGATCACGGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTTCAAGACTGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTTCAAGCGATAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTTCAAGTGAATTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGAGCGAGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGCACGGATAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGCATCCCACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGCATTGGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGTCCTGCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGTCTGCTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACACAGCGATGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACACAGCGTAGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACACAGTGTCCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACACCAGGACCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACACCAGTTAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCAAGAAACGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCAAGCTGCGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCACAGACGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCAGTTCGCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCATCATGTCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCATCGCGATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCATCTGCTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAGCTAGCCAGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAGCTCAAGCGATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTATTATCGCCAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTATTATCTAACCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTATTATCTCACATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTCAGTCATTCTCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTCAGTGTCTCTTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTCTGACACATCCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTCTGAGTAGCGTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTCTGAGTCTTGATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGCAAGTTGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGCACACATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGCAGGAACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGCATCGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGGTATATGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGTCAAGGTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGTCACGCATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGTCGGAGCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTACGTCTTCGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCCCGTTCCACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCCCTCATGCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCCCTCGCATGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCCCTCTCGAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCGAAGGAGTACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCGAGTTGCTCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCGATCCAAACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCGATCGTACCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTTCTCATCGACGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTTCTCATGAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTTCTGTTCCAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTTCTTCATACGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTTCTTCTGTCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAACATCAGGCAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAATGTAGCCAGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAATGTGTAGCCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAATGTTCTTCTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTAGACTACAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTCACAGACTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTCACCTCGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTGTACATCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTGTCACCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTTCAGCAACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTTCTTCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCAGATGTGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCCACAACGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCGTCTAGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCGTTCGTGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCTCAGCACAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCTCGAGGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACTTCTCGGCTACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGAAGAGGGTTTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGAAGCATCGACGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCACGTCTAGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCACGTCTCAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCCAAGCCACCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCCAAGCTGTTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCCAGTGTAATGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATCGGCAAACAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATCGGCAGCCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATCGGGTCTCTCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATCGGGTCTTCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATGGCGTCGCTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATGGCGTTCAGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATGGCTCGCAAGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATGGCTCTCGGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATGTACACCAGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATTGAAGCTCAACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATTGACATTCTTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGATTGAGTACCGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCCAAGAGACAGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCCAAGAGTGTGAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCCAAGCAAGCCCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCCAAGTCAATCACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCCAAGTCTAACGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCCAAGTCTGGAGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCGGTAAGCAGCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCGGTACACTGTGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCGGTACAGGTGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCGTTTCAACACGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTATCCAGGTGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTATCTCTCTAGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTGGAAGTAACCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTGGACAGACAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTGGACAGCTGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTTCAAGTGGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTTCACACCAGATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTTCATCACATGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACACAGAACTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACACCAAACAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACGTAGACACGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACGTTCCCATTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACGTTCGGCTACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACTGAGAGGTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACTGGTTACAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACTGTCAACGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACTGTCGAGAGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGAGCTAGACCCACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGAGCTAGGGTTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGAGTCTCCCTCTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGCTAGAGGTGGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGCTAGGTAAATGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGCTAGGTTACGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGGTCAAGTTACGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGGTCATCCGATATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGTTAACAAGTACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGTTAACACAGTCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGCGAGGGATGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGCGCAGACGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGCGGTGGTTTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGCGGTGTGAATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGGCCATCCTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGGCCATTATCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGGCTCGGCGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTAGGCTCTCTGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTAGAGCCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTCACCTTGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTCACTCGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTCAGTCACTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTCATTACGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTGTGTTGAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCACTTCGAATGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCAGGAGAGCCTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCAGGAGTGTTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCCATAGTCTTGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCCATGTATGCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCCATTCAACTCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCCATTCGGTCCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCTACAGCGCCTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCTACCACCGATAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCTACCACCTATCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCTACGTTGCTCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCTACTCAGTCAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCTACTCCTTTACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGAGCAGACCGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGAGCAGAGTACAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGAGCCAAGGTGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGAGCGTAGCCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGAGCTCACGACTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGAGCTCTGGTTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGTAAGTTAAGAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGTCTCAGGTCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGTCTTCCTTAATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTAGAAGCACAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTAGAGTAAGCACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTCTGAGAGCCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTGGGCAGTAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTGGGGTAAATACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTGGGGTACAGCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTGGGGTGCGATAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAACTTAGGACCACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAACTTCAAGGACTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAACTTGTACTTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAAGACAGGGTGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAAGACCATGTTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAAGACGTACTCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAATGGTCTTCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACACCAGTACACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACACCCAAAGGAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACACCGTTCACCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACACCTCAGCCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACATTAGTGCGATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACATTGTTGTTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACCCACAAGGTTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACCCACATACTACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACCCATCCTTTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACGTCAGGCCCTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACGTCAGTGGAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACGTCCAGATTGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACGTCCAGCATGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACGTCGTACCGTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACGTCTCAACGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAGCCTTCAAAGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAGTGACACTTCGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAGTGAGTCCCTACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAGTGATCGGATGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACAGAAGGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACAGCGTCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACAGGGCTTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACCAAACAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACCAAAGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACGTCTAGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCACACGTTCAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCAGAACAGGTGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCATTAAGATCCGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCATTACACATTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCATTATCACGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCATTATCGGCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGAGAAGATTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGCAATTCCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGCACCAGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGCACGGTTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGGTACACCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGTCGGTTAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGTCTTCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGAAAAGGTGTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGAGGAGAAACCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGAGGAGCCCAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGAGGGTCCTCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGAGAGAAGGTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGAGAGCCGCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGAGCAACAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGAGTCAATCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGAGTCTTGTATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGGACATAGACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGGACATCTACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTACAGAAACGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTACAGTACGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTACAGTGAACGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTACCACCACGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTCATCCTCCTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTAATCACGGCTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTAATTCGGCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTACGAGAGGGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTACGTCTCTGTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTGGTAGCTCCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTGGTAGTAACCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTGGTCACAAGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTGGTTCTAACTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGAAACTCTAACTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGAAGTGTCTCTCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGAAGTGTTAAAGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGATAGCATACCATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGATCCAGAAGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGATCCCAATGACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGATCCCACTGAAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGATCCTCTCAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGATCCTCTGGTTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCCTAAGCCTCGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCCTACACAGATTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCCTATCTTGGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCGGAGTTGGTGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCTGTCAATGACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCTGTCACTCTGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCTGTCAGGCAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCTGTCATCGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGCTGTGTTCGGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGGTCTGTCTAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGGTCTGTTAAGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGGTCTTCAGGCGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGGTCTTCGGCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTGCTAGTGGTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTGCTAGTGTTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTTTAAGACGCTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTTTAAGTAGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTTTAGTCCGAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTTTATCTGGAGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAACTAGATCGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAACTAGCAATATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAACTAGTTGCAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAACTGTAATCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTACCGAGCAGCGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTACCGCACATCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAGGAAGCAATCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAGGAAGGCGACAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAGGATCAACACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTAGATCCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTAGCTGCAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTAGGTAAACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTAGTTGTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTCACACGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTCACGCGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTCTCTGTAAACCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTGGCTGTTCAGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTGGCTGTTTGTGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTGGCTTCTTTACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTTGCGAGCTAGTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTTGCGTCTGGTATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTTGCGTCTGTCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTTGCGTCTGTTGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAACTCAGCTGTTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAACTCCAAGTCTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAACTCGTAAGGATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAACTCTCACGGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAATGATCAAACGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAATGATCAACGGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACATCAGCTAACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACATCCATTCCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACATCGTGCTCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACATCTCCTCAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACATCTCGTCCAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACCTAAGTCTTGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACCTAGTTGACGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACGGAGTTTGACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAGCAGCAGTAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAGCAGTCGCCAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAATAAGTCTAACTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAATGAAAGGCAATTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAATGAACACCTTGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAATGAATCCAGAGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAATGAATCGTAGGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACACGCCATCCAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACAGAGGTACAGCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACAGAGGTCACTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACAGAGGTCTCTCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACCAATCAATGGTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACCAATGTACCGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACCTGGGTAAATACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACCTGGGTTCCACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGCGTAGCTGAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGCGTCAGTATGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGCGTTCGGTCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTAGATGAGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTAGTGGTAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTAGTTTAGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTGTCGAATCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTGTGATAAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTGTTGCGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTTCAACGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTTCGACCAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGGCTTCTACTATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGTGCGTGCGCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGTGCTCAACGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTAACCAAAGCAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTAACCAACAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTAACCAATGAAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTAACTCACCTCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTAACTCCTCAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTACACAAATACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTGCGAGTCTCGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTGCGCAGTATCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTGCGCATAGACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTGCGTCACGACTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GACTGCGTCTACTCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGCAGAAGCCGCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGCAGACAATCACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGCAGACACTTAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGAAGAATGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGAAGCGTTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGACAATTCCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGACAATTGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGAGTTGAGTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGAGGGTGTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGCAAGGCTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGCAATCAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGCACCAGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGCACCTCGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGCAGCGATCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGTCCGGTCAGAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTCAGATGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTCATAAGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTGTCTCCACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTTCAATCACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTTCAGTGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATCAAATTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATCACAGACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATCATCGGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATGTCGGATCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATGTCGGCATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATGTTCCAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGATTCACAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGAGCAGGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGCAAAGTCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGCACTACAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGGTGCTGTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGGTTCACGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGTCTCCAGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGTAGTAAGGGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGTATCCGCGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCTAGGTGCTTCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCTAGTCCGCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAAACATGAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAAACATGCAACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAAAGTCAAGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAGGGTTCTGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGCTACACCGTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGCTAGTATGCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATTCAGCAATGGAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATTCAGCACGTTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATTCAGCATCCTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATTCAGGTCACCCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATTCAGTCCTGCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GATTCAGTCTGGCGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAAACTAGTCTCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAATCAAGACCTAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAATCAAGAGGGCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAATCAGTGCACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAATCAGTGCAGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAATCATCAAGATCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACATACAAACAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACATACACTTAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACATAGTCAAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACATAGTGCAGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACATAGTTACCAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACATAGTTCCCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACTCTAGAACAACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACTCTAGCGATCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAGCCAAGACGCACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAGCCAAGACTAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAGCCACACCAACCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAGTTACAAGAAGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCAGTTAGTTCTGAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATACAAGCTAACAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATACAAGTGGGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATACACAACGATGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATACACAATGACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATACACATATGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATACAGTATCTGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGATTCTCGATGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGCGAGAAGAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGCGAGACGCACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGCGAGGTAGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGCGCACGAAATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGCGCATTGAGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCCAAATAGTAAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCCAAATCACATTCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCCAAATGTTCCCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCCAAATTCACGCATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCCTCTAAGTAGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCCTCTAGTCCAGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGACCACATCACGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGACCATCAGCTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGACCATCCATTCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGAGAAAGAAGGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGAGAAAGATGTTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGAGAAAGTCATCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGAGAACAGACGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGAGAAGTCGCATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACAGGCAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACAGTATCGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACCACGGTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACGTAGCGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACGTCTGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACGTTGATTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAACTCACCGTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAGTCAACTGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCAGTCACACCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCCAAGTCAAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATAGACAGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATAGGATGGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATAGTGTTGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATCACCGATAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATCAGGAATCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATCATGAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATGTTGTCGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGGGTTAGCTGAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGGGTTAGGCTAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGGGTTCAGTCCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGGGTTCATTGGGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTAAGACCTAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTAAGATAGTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTACACTGTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTACAGTCGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTAGTATGAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTAGTGTGAAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTAGTTCCGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTAGTTTCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTCCTATCTGGCGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCAGAGAATCTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCAGCAATGTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCGAAGTGTTGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCGACAGAGCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCGATCAGAGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCTTAGCCGATTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCTTGTCATTAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCTTGTTCTCATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCTTTCCACGTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCTTTCGCCCTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCTTTCGTGGTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTTGAAAGCAGCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTTGAAAGGAGCGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTTGAAAGTACGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAAAGCAGGACTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAAAGCTCTTCGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAACTTAGCATGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAACTTAGCCACGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAACTTGTACCGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAATAAAGCCCAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAATAAAGGCAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAATAATCTCCCTGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAAGCAACAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAAGCATAGACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAGACAGACACTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAGATCACGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACATTAGCCCAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACATTGTCAATGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACATTTCAGAGCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACGTCAGATCGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACGTCCAGTAGAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACGTCTCACCATAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACGTCTCTGCGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAGCAACAATGTAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAGCAAGTAGTGAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAGCAAGTCTTCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGATGTTGTTACTGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGATTACCAAGACACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCAATTCACGTCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCAATTTCGAGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCAATTTCGCCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCCGATAGCGATTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCCGATAGCGTCAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCCGATTCAGCACAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGACTAGTACTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGACTCATATGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGACTGTGGTCCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGACTTCAGAGGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGACTTCCTACAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGTGTGTCAAAGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGTGTTCGGAGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTCGACACACGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTCGACATTAGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTCGAGTAAGTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTAGAAACCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTCACAAGTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTCATATGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTGTCAGAATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTGTCGCTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTTCCCAACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAATGCATGGGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAATGGTCAGATAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAATGGTCGACTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAATGTCGATAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGACCTAGAGAGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGACCTAGTGGAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGACCTGTCTTCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAGATAGGCGCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAGATCACGGTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAGATCATCACGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGATGAAGACCTAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGATGAGTTCCGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGCACTCAACCGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGCACTCACAGGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGCATCCAGTATAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGCATCGTTATCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTCTGAGTATCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTCTGCAATGGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTCTGGTTCAGACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTCTGGTTCGTGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTCTGGTTGGACCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTTGCCAAGACACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTTGCCACAGGAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTTGCGTTTGACTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTTGCGTTTGGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTATTGAGAACTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTATTGCACCGAAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGAAGAGGTGCTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGAAGCAGAAGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGAAGTCTGCAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGCGTAGCCACTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGCGTAGTTCGATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGCGTCATGCCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGCGTTCCTCGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGCGTTCGATAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGTTACAAGCCCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GGTGTTAGTGTGGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACGTAGATAGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACGTAGTGTCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACGTCACCGAAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACGTGTCCCGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACGTGTCGCGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACTGCATCAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACTGGTACTCTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACTGGTAGCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACTGGTTCTCATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAACTGTCAAGGCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTCCAGGCTCATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTCCAGTTATCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTCCTCCCACTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTCCTCTGACCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTTTAGCGGCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTTTGTGTGTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAGGCCAGTAGGTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAGGCCGTCCTCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAGTCATCCGTTGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTATCTTCAGCGTCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTATCTTGTCCGAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTATTCTCATGCCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTATTCTGTAGAGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTATTCTGTAGGCATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCAAGTGTGTCCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCAAGTTCGGCGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCAAGTTCTGTCAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACAAAGACGCTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACAAAGGTGCACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACAAAGTACGTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACAAGTGATGTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACGGCATCCGGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACGGGTTCAGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCACGGTCCGCATCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCATTTAGGCCCTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCATTTTCATCATTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCCTCAAGCGGATCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCCTCACACCGGAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGGGTAGGGTTTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGGGTGTAAATGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGGGTGTACGACCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGGGTTCAATCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGGGTTCGCGGATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGTAAGTCGTGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTCGTAGACAATAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTCGTCAACACCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTCGTCACCACCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTCGTCATCACGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTCGTTCTAACGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTCGTTCTGTCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTTCGCAAGGTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTTCGCAGACGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTTCGCATCACGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTTCGTCAGTGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGAAGGGTTGGAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGAAGGTCTGCTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCAGCAGACAGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCATAAGTCCAGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCATAGTAGCGCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCATAGTGGTTTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCGGTAGTGCCATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCGGTCATGAGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCGGTGTATGCTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCGGTGTCCAGTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCTTCGTCGCTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCTTCGTCTCACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCTTCGTTAAAGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCTTCTCCCTCAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGGGTCGTACTTGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGGGTCGTTTGACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGGGTCTCTACTATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTGCGAGGTGCACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTGCGTCAGTCAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTGCGTCTTCTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTTAGCACGGCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTTAGGTAAGGATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTTAGGTAAGTAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGTTAGTCGCTAGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTAAGCGTCCCTTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTAAGCTCATCGATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTACAGAGCGGATCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTACAGAGGAGTTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTACAGCATCGATTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTACAGTCATCTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCATTAGTTGTCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCATTGTAGCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCGGGCATTAACCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCGGGGTAAGGGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCGGGTCTGCTGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCTCGAGAGCTGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCTCGGTAGTGAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCTCGGTCGGGTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTTCTAAGCTGCCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTTCTATCTCGGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAACCGCAAGCCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAACCGCATCGATTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAACCGGTGAGGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAACCGGTTCGGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGAGAAGTGTCTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGAGACACCATGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGAGACACTCGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGAGAGTCCGACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGAGATCATGTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGCGTGTAGCTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGCGTGTTCTGAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGTGCAGCGTGTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGTGCGTACATGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAGTGCGTATAGGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACACGACATCGTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACCTATGTGAAATCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACCTTAAGAGGTACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACCTTACAGAGCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGATCAACTGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGATTCCGCTGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGGCAGAGATGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGTAAGGTGATTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGTACACCTGGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGTACAGTTAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGTAGTTGCTCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGTATCCCTCAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTCATAGGGTGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTCATGTTGAGTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTCATTCGGCGCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTCGCAGGACAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTCGCGTGCACTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTCGCTCTGGCGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTACCATGTAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTACGTGGCCCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTACTCAGTTCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTGTCACGTTGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTGTGTCCGAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTGTTCCTCAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TACTTGTTCTGAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGACCATCCATTCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGAGCTGTGCTCTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGAGCTTCACATGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGAGCTTCATCACCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGCCGGCACAACTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGCCGGTCTCCAGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGGCATTCTGTTGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTGGTAGACAGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTGGTCAAGACACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTGGTCAAGCGAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTTGGCAAAGGAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTTGGTCGCCATAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTTGGTCTCGTATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCAGGAGACATAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCAGGAGAGGTTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCAGGAGGCTCAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCAGGCATGTCTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCTCAAGCTATGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCTCAAGTATCTCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATCTCATCCGAGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATGCCCAGAGAACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATGCCCGTCACCTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATGCCCTCCAAATGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATGCCCTCTTACCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATTACCAGAGACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATTACCAGCGGATCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATTACCCATTCACTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATTACCGTGCACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TATTACCGTGTCCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCACAAGAGGTTACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCACGAAAGTGGCACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCACGAAGTAGCACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCACGAATCAGAAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGATGAGAGAGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGATGAGAGTGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGATGGTATAGGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGATGGTCGGCACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCAAAGTTCGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCAATCAGCGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCAATCGTTTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCTCAGATGTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCTCAGCCTATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCTCCATAGAAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCTCGTTCGGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGATAGTGCTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGATGTCTGCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGATGTGTGTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGATTCAGCTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGATTCATGGTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGATTCTTGTACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGTAAGCCAGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGGTACAGCAGTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTACAGGCTAGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTACCAAACGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTACGTCGGCACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTACGTTGTACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTTGAGAGACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTTGAGCTAAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTTGAGCTTTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTTGCATGTTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTTGGTAGCGTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCACACAGACCTTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCACACCATGCGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCACACGTACCGAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCACACTCGTAGGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCACACTCGTCCGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCCGATTCTGGTATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGAGGCTCACCTCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGCGAGAGGTCGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGCGAGGTCAAAGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGCGAGGTGAGTATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGCGTTAGTCCTCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGCGTTGTCTGATCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGGGACCAATGAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGGGACCACTGTGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGGGACCAGCTGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGGTAATCTCTGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTACCAGTAAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTAGACATGTCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTAGAGTAACGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTAGATCCTGCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTAGATCGGATGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTATTGAGGTGACCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTATTGCAAACCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTATTGGTAGGACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTCATAAGAGCTGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTCTAATCTTTACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGAGACAATCAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGAGAGTCCGTTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGAGAGTTACCGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGAGATCCAAACAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGAGATCTCTAGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGAGATCTGAGGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAAAGGCTCATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAAAGTTTAGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAACAATCCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAACACGTCAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAACAGTTAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAACATGATCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTGGAAGTAGTACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTCGGAGAACTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTCGGCAAGCGAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTCGGCAGTTCATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTCGGCATCCCATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTCGGTCTTACCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTTCCAGCGTTGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTTCCCAGCCAGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTTCCGTACCAGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTTCCGTTGGGACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAAAGACACCGAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAAAGAGTACAGCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAAAGATCCGTCAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAAAGATCCTGCAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACAACGTAAGTTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACAACTCACTTATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACAACTCTGCAAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACGGCAGCCCTAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACGGCAGTACGTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACGGCCATCTGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACGGCGTCACTTCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACTAGTCAGTGTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACTTTCATCGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGAGGTCCTTGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATAGCACACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATCACGGTTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATGTCAGCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATGTGTCGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATGTTAAAGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATTCTCGTTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATTCTGATTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCCGCATTAGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCCGTCGGGAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGGGACATGTAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCAGATCGATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCCAAGGTTTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCCACCAGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCCACTAGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCGTTCCAACA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCACCTAGTCGTACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCACCTAGTCGTTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCACCTCAACGATGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCACCTTCTTTACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCAAAAGAATGTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCAAAAGGAGCGTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCAAACAACAACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCAAAGTATAGGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCAAAGTCAAACTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCAAAGTCAGCTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCATCAACACGCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTACAGCGTCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTACATATGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTATCACATGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTATCAGAGACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTATCAGATAAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTATCTTCGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCCCTATCTTTCCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGCAGAGGAATTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGCAGCACGACGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGCAGCAGACAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGCAGGTCCATCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGTGGCACGAAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGTGGCAGACGCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGTGGGTGGAAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGTGGTCACGATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCAGGAGTTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCCAAACCTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCCAAGTCTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCCACGAAAGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCTCCTTCAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCTCGAACGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTGCTAGCCCTAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTGCTCACATTCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTGCTGTTTCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGACGCGTGTGCCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGAGAGACTAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGCAGAAGCAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGGTCTAGCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGTCAACCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGTCACCACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGTCAGGTAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGTCCTTGCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCGCAAGTCGCCGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCGCAAGTGTTTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCGCATCAGGTAAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGAAGAGACACTAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGAAGCATGGTAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGAAGGTATATGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGCGTAGTTACCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGCGTGTGTTGGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGCGTTCCATTCTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGCGTTCTTTACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTAGAGGGATGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTAGGTCACCCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTAGGTCTTGCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTAGGTGGCAAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTCCAGCATGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTCCCAAGTCTGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTCCGTCTGCCAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTCCTCCACTGGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGTTCCTCTATCCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCAGCGATTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCAGGAGTTTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCCAAACCTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCGTATATGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCGTGCCTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTCCCAGTCGAATCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTCCCAGTGCAGTAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTCCCATCCGCGGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGGTAAGGAGTCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGGTACACCGAATT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGGTACATGACATC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGGTAGTCTCCACT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGGTATCAACACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGTTTAGGAGCGAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGTTTCACTTCGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTGTTTGTACGCTGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTTCCGAGACCCACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTTCCGCAAAGTCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTTCCGCACTTACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAACTCAGCATGGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAACTCAGGGCACTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAACTCCACGGATAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAACTCGTACATCCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAACTCTCAGTGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGGACCAGACGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGGACGTAACGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGGACTCATCGCTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGTTCGTTTGTTGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGTTCTCAGGTTCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCCCAGAGGCTAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCCCAGCACAGGCCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCCCAGCATCCGCGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCCCAGGTTAAAGAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCCCAGTCCGCATCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCCCAGTCGAGAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGAAGCATTCTCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGAAGGTAGGGTAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGAAGTCATGCAAC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGAAGTCGGAAACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGGTCAGCCAGGAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGGTCGTCGTGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCGGTCTCACTGGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTACAAGTGTCCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTCAACATTAGGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTCAATCAACACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTCCTGTATCAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTCCTGTGAACCTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTCCTTCAGCATGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTTAGTCCGTAGTA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGAGATAGCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGAGTTAGCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGCATTGGCGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGGTGAGTATA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGGTGCCTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTAGAGGTAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTAGCACACAG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTAGGGTGTTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTAGTGGTAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTCAATGAATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTCATGTAAGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTGTCCGAGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTGTGTGACCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGACTTTCAACACGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCCGTCACCAGGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCCGTCATACTACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCCGTCATGTTCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCCGTGTATTCGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCCGTGTTGTCGCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCGTCAGTGTGAAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGCGTCGTATTCTCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACAGACCACGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACAGAGCCCAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACAGAGTCGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACAGTAATCCC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACCAGTGAGTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACGTATATGGA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGAACGTCGAGATG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGCAAGTTGGAGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGCAATCATAACCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGCAATCTGCAAGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGTAGGCACAGCGTC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGTAGGCAGCTCGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGTAGGTCGGCTACG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTACTGGTTGTCTTT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTATGCCATTGCGGC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTATGCTCACCACCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTATGCTCTACTCAT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTCCTCAGATCTGAA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTCCTCTCCCTAACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGCGCAGTGTCCCG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTAGACAGACC-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTAGATCTGCT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTAGCTCTCGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTAGGACTGGT-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTCACACCGCA-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTGTAGAGCTG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGTCAGTTCCACGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGTCATCACGAAGG-EOC733_pPer",
+    "label": 1
+  },
+  {
+    "cell_id": "AAACCTGCACCAGGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAAGCAATCTGTCCGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAATGCCGTCCTCCAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACACGTAGAGCTTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACCGCGAGCATCATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACGTTGGTTCCATGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACTCAGAGTGCGTGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACTGGTGTTACGCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAGGAGCAGCGAGAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAGGAGCTCCAGAAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAGGCAGCACTTGGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AATCCAGAGTTCGATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACACCGGTCATCTGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACAGCCGGTTTACTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACAGCCGTCGCAGGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACAGCTAAGAAGCCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATACGAGCACCGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGAGACTAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGCAGATGGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGGTCCTGCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGTCACCAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATGGTTCTGAGTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACCCACTTCGGCTTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACCTTTAAGACTAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGAGCCAGAGGTACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGAGGATCTGAGTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGATACTCGTGGTCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGGGCTCAGTTCATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGTCAACACCGCTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGTCAAGTTTGGGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACTATCTAGGGAGTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACTGTCCCATCGATGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACTGTCCGTAATCACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGAGCGACATGGTTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGAGCTTCAATCGGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGATCTGAGCAACGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGATCTGTCACAGTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCATACGTTACGCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCGTATAGTATTGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCGTCGTCATCGATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCTCCTCATTGAGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCTCTCAGCGCTCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCTTGATCCACGTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGAGTTCGAACGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGATGAGGGCACTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGATGCATCATCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGTGAAGAGGTAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGTGATCGCCCTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGTCATCACAGACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGTCATCACTGTCGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGTCCGGTTCAGTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGAGGCAGTCACTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGAAGCAGCGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGAAGCTGATAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGACATATGGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGAGTACCGCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTTGGTGTAAATGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATAAGAGAGCCTCGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCACGAAGGGTCTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCACGACACGACTCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCACGATCAGTCCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCACCAGGTTACCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCACCGTTACCAGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAAAGTCCGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAACAACGATGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAACAGATGAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAAGTGATGCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATGAGGGGTAAGTGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATGCGATCATGGTTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATGGGAGAGGGATCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTACTCGTAGCTTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCAGGGTCGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCCACAGAGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCTCACATGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCTCATTTGGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTCTACTCGGTTAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTTCTGGTCCGTTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAACCAACAGTGACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAACCTCAGCGATAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACAAACCAGACTCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACAAAGCGTAGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACAATCAGCTCGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACCTGTGTTAAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACTCAGATGCCAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACATTTTCGATCCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACCACTGTATAGTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACCACTTCGGACAAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACTCCACAAGAAGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGAATCAGAGCTATA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGAGAGGTCTAAAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGATCACAAGGTGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGATCACATCAGTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGATCATCATTATCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCAGCAGTACCGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCGACAGCGACGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCGACAGGAGCGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCGACCACCTCGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCTGGCAGGGCATA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGGTGCAGCAGCGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGGTGCCAAGCTGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGTAACCATATGGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATATGGAGACCACGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATATGGGTTTAGCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCAAGCAAACCCAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCAGAAGCGCTCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCCACTCCTCATTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCGAATCGCGATCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCAATCCTCTACTCAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACCTAAGCAATCTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACCTAGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACGGACAACTGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACTACAGCGTGAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACTACAGTTGCAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCATGTCGTCTCTCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCATGTCTCTGGAGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCCAATCTCAGTTTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCCAGTTGTCTTCTCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCCTCCTGTGTGAAAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCGTACTCAGCCTGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCGTACTTCAACGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCGTTCAGTTCGCGAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACACGTAGCGTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACACTCTACTTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACCACATCAGTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACCATCCCATTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTATTACAGTTTACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTCAGTCACCCATTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTTCCCAGGCGTACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTTCGAGTCCTGCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTTCGAGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGAGCCAAGACAGACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGAGCCATCACAAACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGAGCCATCGTCTGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGATTGATCATGTCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGCGGTAGTTAGAACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGCTTCAAGCGTGAGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGACACAGACGACGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGACACTCGCTTAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGGTCATCCGCATAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGTTAACATCACGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGTTAACATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGTTAACATGTTGAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGCGGTGTCCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGGCAGAAGGTTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGGCCACGAAAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGGCCATGCTGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCAGGCAAGCGTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCCATGTAGCCTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCTACCATCCGTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCTACGTCTAAACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTGTCTGTATATGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTTAGAAGCATGGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTTCTGAGCTCAACT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTTCTGCATCCAACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTAATGGCATTCTTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTACGTCGTTATCACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTAGTGAAGAAACGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCCTAGTCCATTCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCGAGGAGATCACGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCGTCAAGCGGCTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCGTCATCACTCCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTAATAGCATCATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTAATTCACAAACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTACGGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTGGTAGTACACCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGAAGTGTCTTCGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGATAGAGCTAAACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGATAGTCTCGTATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGCGGAGTTACGACT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGCTGTGTGGACGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGCTGTTCAATCACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGTTTATCATCATTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTAGGATCTGGTTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTAGATAGTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTCAGCTCCGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTCATCGATGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTGTATATGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAAATGACATCGGAAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAAATGAGTTGCGTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAACATCAGACTGGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAACATCCACCGAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAAGCAGGTCCATCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAATAAGGTAGCGATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAATAAGTCGCGTAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAATAAGTCGCTTGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACACGCGTATTAGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACAGAGAGTGTCCCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGCGTTCCTCAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGGCTTCTTACCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGTGCCAAGTAATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGTGCTCTGCTGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGTTAGTACCGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACTAACCACTTCTGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACTACATCACCTCGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAGCAGAAGCGATAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATCGATTCCTCATTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATCTAGGTGGCTCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAAAAGTGGAGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAAAGTCATCGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAAATCGGGAGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAGGGTCGTCTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGCTACAGCTGTGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGCTAGTCCAGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCAAACTTCATACGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCACATATCTGTGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCATGCGGTCTCTTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCATGCGTCAAGATCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCATGTATCGTAGGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCCAAATTCCACTGGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCGACCAGTCTTGTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCGCAACGTCGTTGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCGCAGTAGACCTAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTCCTATCGAGGTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCAGCAGTGACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCAGTCTACTTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCGACAGGCAGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCTTAGGCGCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCTTGTTGCCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGGGTAGAGGTACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTTGAACAATAAGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTTGAAGTGAACCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGAAAGCTCATGCATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGACATTCATTCCTGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGACGTCAGCTCCCAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGACGTCAGGATGGAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGATGTTCAGTCACTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGATTACCACGCCAGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGCCGATCAGCTGTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGCTGGTTCTAACTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGAATGTCACCAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGATGACATATGAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCACTGTCACTTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCATCGTATTCGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCATCGTGAGGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCATCGTGTGACGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGTTGCCAATGGATA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGTGAAGCATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGTGAAGTCATGTCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTACGTATCGTCGTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTACTTTAGGGCTCTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTACTTTTCAGGCCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTAGGCCGTACATGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTAGTCACAAGGACAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCAAGTCACGCTTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCAAGTGTTATTCTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCACGGGTCGCGAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCGGGTCATAAGACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCGGGTTCAGTTGAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCGTAAGTGATAAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCTCGTGTAAAGTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGAAGGGTAAATGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGAAGGGTGCTGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGAAGGTCTGCCAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGCAGCAGCAGATCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGCATATCTCAAGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGCGGTTCTTAGCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGTGCGCAAGAAGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGTGCGCAGGATTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGTTAGTCCTCTAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTAAGCTCATATCGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTACAGAGCCCAGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTCATTAGTGTACTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTCGGGCAAAGGCGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAACCGCAATGAATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAACCGTCTATCCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGAGACAAATACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGCGTAGTCATGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCGTAATAGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCGTACAAGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCTCAGCTGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCTCGTCCGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACCTTATCTCATTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACGGATTCGGTCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACTTGTAGCTAGTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACTTGTTCACAGGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAGAGCTCAAGCGATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAGGCATGTCATCCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAGTGGTGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TATCAGGTCCCATTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TATTACCCAATCGAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCAATCTGTGCGAAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCACGAAAGTCGTTTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCACGAATCTGCTGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCAGCAAGTGCAGGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCAGGATAGTACGACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCATTACGTGGACGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCGAGGCCAGCCTGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTATTGAGATCCCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTGAGACAGGTCGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTTCGGCAACTGCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTTTCCAGATATACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAAAGACATGGGAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGACAACTCGCTAGCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCATAGCAGGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCATAGCCCAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCCGAGCGATCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCCGTCCGCTGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCCGTCGGAGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGATTTCAGTTGCAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCCAAATCGTTACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCCCTACAGCTGCAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCGGGTCAAGCCCAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCGGGTTCTGGCGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGCGCACATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGGAAGAGGGATGGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTAGAGACGCAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTAGCAGCTGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTAGTCAGTTCGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTCCCACTGTTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTCCGTTGGTAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGTATTCGTGCTCTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGTTCCGAGCGTGAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGTTCCGCATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGGACAGCCACGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGGCAAGAGGGCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGTTCGTCAACTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGTTCGTGCAGGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTATGCTTCACTTACT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTATGCTTCTGTGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCCCAGCAATGGAAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCGAAGCAGACGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCGGTCGTACCGGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCTACAAGCTACCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTGCGTCGTCTAACGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTGGCAAGTCATACTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTGTAGGCAAAGCAAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTACTGGTACTCGCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTCCTCTCCGAACGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTGCGCGTGTCCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTGGTTAGCCCAATT-EOC153_pOme",
+    "label": 0
+  }
+]

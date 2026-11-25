@@ -1,0 +1,7 @@
+args <- commandArgs(trailingOnly=TRUE)
+library(Matrix)
+load(args[1])
+stopifnot(ncol(rawCounts)==length(rawCounts.grp))
+writeMM(rawCounts, file.path(args[2], 'counts.mtx'))
+write.table(colnames(rawCounts), file.path(args[2], 'cells.tsv'), quote=FALSE, row.names=FALSE, col.names=FALSE)
+write.table(rownames(rawCounts), file.path(args[2], 'genes.tsv'), quote=FALSE, row.names=FALSE, col.names=FALSE)

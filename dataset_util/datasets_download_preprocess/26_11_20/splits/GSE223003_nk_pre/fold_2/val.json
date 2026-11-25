@@ -1,0 +1,3102 @@
+[
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAACGCTAGGATATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAAGGGCAGAGCAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAAGGGCAGCGGTAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAAGGTAGTCGAACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACAACCAGGACACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACAACCCACTCCGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACAAGACAACGGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACACACAGCTCCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACACACCAGCTACTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACACACGTAGCGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACAGGGGTTAAGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACCAACAGTCACTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACCAACTCGGCCTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACCCAACATACTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AACCCAAGTCTCAAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGACAACATCTGCGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGACTCCATGTGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGCCATAGCAGCACA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGCGAGGTGTTGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGGAATCACTGTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGGAATTCGAAGCCC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGGAATTCTGACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGGTAACATAACAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGTCGTGTAAGTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGTTCGAGTACAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AAGTTCGTCATGCCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATAGAGCACATTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATCACGTCATGAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATCGACTCGCCAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATCGTGCAATTCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATGACCGTCCAGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATGCCATCGGTGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATGGAAAGCAATAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AATTCCTTCGTGGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAAAGAAGCAGATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAACCAGTGAGCTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAACCATCTAACACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAAGCTCAACCGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACACAGTAGTAGAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACACAGTCATCGGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACACCAAAGTCCTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACACCAACACAGTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAGAAAAGATGCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAGCCGTCTTTCCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACAGGGATCTGAACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCACAATCTCGCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCCAAAAGGTCCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCCTCACATGTTCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCCTTGTCATAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCTACCAGTTGTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCTGAAAGCTTTCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACCTGTCCAGGGCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGATCACACGACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGATCAGTCCGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGATGTGTACGAGTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGCACGCAAAGGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGGTCGTCGGACAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGGTCGTCTGAGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGGTCGTCTTTGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGTAACAGTAGCTCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGTAGTTCTGAGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGTCCTCAGCCTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGTCCTGTTTGGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACGTCCTTCACGAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTACGAGTCAAGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTATCTAGTGACCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTATGGGTCTAACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTATTCAGATACTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTCCCAGTCCCTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTGCAATCTTGTTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTGTGAAGTAGGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTGTGACAGTCAGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTATCGTATGCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTATCGTGAACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTATCTCGCTTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTCCGAGTCAAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTTCAGTGTGCCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTTGTGTATATGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ACTTTGTTCTTACGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAACAAAGCCAAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAACAATCATACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAAGCGAGCTCTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAAGCGCAGACCATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAAGCGGTCCGACGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAAGTAGTGTCATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGACACTGTTCTAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGACAGGGTGTTTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGACCATTCATTGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGACTCAAGTCGGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAGAATTCTAGTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAGAGCTCAGACCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAGAGCTCCGATCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAGCAGCATCTCATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGAGCAGGTAAGGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGATCCAGTGTGTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGATCGTTCTCGCTTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGATGCTTCTGAACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCATCAAGCACTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCATCAGTACCAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCCAATTCCTAACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCCAGCAGCGTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCCAGCTCAGTCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCGATTCAGAATGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCGATTCAGGATTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCGATTGTGTTGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCGCCAAGAGATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCGCCAGTTCCGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCGCTGCACTGGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGCTTCCGTGTTACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGAAATTCTACACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGACTTAGACAGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGAGGTAGTAAATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGATAACAAGCGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGGAGTAGGCGAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGGTCCGTCATAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGGTCCGTTCAGGTT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGTAGGAGGTTGTTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGTAGGCATGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGTAGGTCAGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGTCTAAGGTCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGTGTTCATCCTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGGTTACTCTTCCCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTAACCAGATGTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTACCAGTGGTTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTACTGTCAGTGGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTAGCTGTAGTGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTCAACGTCTGTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTCAACGTCTTGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTCACATCGCGTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTCATGTCGCTTAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTCTCCCAATCGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTCTCCCAGAGTAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTGACTTCGTAACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTGCCGAGATACATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTGCCGAGCGCCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTGTTGGTATACCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTTAGCGTTCGGCGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTTCCCAGAGCAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_AGTTCCCCAGTGTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATACCTTCAAATTGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATACTTCAGCATAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATAGACCTCATAGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATAGAGAGTTTACCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATAGGCTAGAGAAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCACTTGTCCAGCGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCATTCAGAAGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCATTCTCAAAGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCACCGTACCACGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCACCGTACGTGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCACCGTGAGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCACCTCTAAGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCATTAGCCACCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCGTCAGCACCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCGTCAGTTTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCCTATCAACAGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCGATGAGCTACAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCGATGGTTCTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCGCCTTCGTGGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCGCCTTCTATACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCGTAGAGGCCCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCGTAGTCAGCCCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCTCTATCATTTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATCTTCAGTCACGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGACCAGTGGCTTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGAGGGGTCGTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGAGGGTCTGCTTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGCATGGTGTTAACC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGCGATGTTATTCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGGAGGAGGGCGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGGGAGAGTCTGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGGTTGCAATGACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGTCCCAGCATTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGTCCCTCCATTCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGTCTTCAATTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGTCTTGTGTCTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGTCTTGTTCGGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATGTCTTTCCCGTGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTACCTTCAATCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTACTCCAAGGCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCACTTCGAGAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCATCAGAGCCCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCATCAGATACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCATCTCGTCTAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCCTACAACTCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCGTTGTGTCGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCGTTTCCGCATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCTACGTTAAACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTCTACGTTCCCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTTCACGTGCATGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTTCACGTGGGACAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTTCACGTTTATGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTTCACTCGACGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_ATTTCTGCAAGAAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAACAACAGACAGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAACAACAGAGAGCCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAACAACTCTATTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAACCAATCCATAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAACGGCGTGACTATC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAACGGCTCCGCATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAAGACTGTGTACATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAAGACTTCTCATAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAAGAGGTCTGTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAAGCTAGTGAGATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAATACGAGCTGAAAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAATCGAAGGTTCCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAATCGAGTCACTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACAACAAGTCATGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACAACACAGAAGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACACAAAGACCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACACAAAGCACACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACAGATGTGGACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACAGGCAGCTTTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACGAATTCGTAGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACGGGTGTCGTTGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACGGGTTCCACTTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACGTGGAGCAATAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACGTGGAGGGTACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACGTTCTCTGTAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTGAAGTTCGGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTGGGGTGCAATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTGTCAGATCGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTGTCCAAACCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTGTCGTCACTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTTCGCATGGAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CACTTCGGTGTCACAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGATACTCATGACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGCACGGTAGCGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGCACGTCATTGCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGCAGCCACCAGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGCAGCGTGGCATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGGCCACAATGGGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGGTATAGAGGGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGGTATTCGCCACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CAGTTCCCAATCGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATACAGAGGTGATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATCAAGCAATGAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATCCACGTACAAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATCGGGGTAAGTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATCGTCAGAGATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGAGTTCAATCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGAGTTCACGAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGCAAAGTGTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGCGGTCGAAGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGCTCAGCTCTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGGTAGTATCTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATGGTATCTGCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTCATGTTTCGGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTCCGCAGCATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTCCGCAGGACGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTGAGAGGCTATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTGAGTCACGATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTGTTTCGAGTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTTCAAGAAAGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTTCACACCCTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CATTTCATCTACCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCAAGCGGTTGCCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCAATGAAGCCTCTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCAATGATCTTCTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACACTAGAGCTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACACTTCCCTCTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACCATAGATGGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACCATGTATTGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACGAGCATGTTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACGTTGTCATCTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCACTTGAGCAAGTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCATAAGAGATCCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCATAAGCAGCTCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCATAAGGTTGATCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCATAAGTCCTCGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCATCACCAATGACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCATCACCACAACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCCGAAGTCAGGGATG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCCTAACAGTGTAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCCTCTCAGCACTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCCTCTCGTGAACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGATCTGTGAATGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGCAAGCATGGGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGGACAAGGATGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGGGTACATCCGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGGGTAGTTACACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGGTGATCTGATTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCGTTCACACAGAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTAACCAGTACAACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTAAGACAGTGGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTACGTAGTGGTTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTACGTCAGTCTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTACGTTCCTACTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTATCGTCTTGGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTCAACTCTTGCGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTCAGTGTAAGTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTCCTCGTACTCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTCTCCAGCCAGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTCTCCGTAATGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTCTCCGTTATAGAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTGCATAGGCTGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTTCAGAGACCTCAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTTGTGGTCTGTAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTTGTGGTCTTCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CCTTTGGGTGATGTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGAGGCTTCGAAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGATGGCGTTTACCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGCAGGTGTATGGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGCAGGTTCCATCACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGCATGGAGAGCCGTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGAACCAGGTAACTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGACACAGATTGTGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGAGAACAACGGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGGACTAGTAACCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGGACTCACGGTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGGCATAGCACTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGGGCATTCACCCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTAAGTTCTCTAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTCAAAGTTTCTTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTCCATTCTTGAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTGAATAGATGACAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTGATACAATGTTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTGATATCACTTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTGCTTTCACGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTGCTTTCCATTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTGTCTAGCGATCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTTAGATCCCTCATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTTCTGCAACCGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CGTTCTGGTACTCCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTAACTTTCACCTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTAAGTGTCCTCTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTACAGACAATTGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTACCTGGTACTCGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTACTATGTGGGAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTAGACAGTACAATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTAGACAGTCATACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTATCCGCATGTGACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTATCTAGTTGCGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCAACCCAAGAGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCACTGGTCAACCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCACTGGTGCTGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCACTGTCGAGCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCAGAAAGGCCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCAGGGCAACTGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCATGCGTTCTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCATGCTCCGATGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCATTAAGCTTGTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCACATCCTTCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCATGAGAGGATGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCATGCAGAATGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCCAAGTCAAAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCCTCAGATGGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCCTCTCATAGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCGATTCGAGTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCTCCGTTACGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCCTTTCACTCAAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCTCAGTCGTACACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCTCGAAGTTGCGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCTCGAGTGTCTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTCTGGTTCCTCTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGATCCGTGCGCTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCAGGAGGACTATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCAGGTCCCATTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCCTAGTAATCAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCGAGCACTTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCGAGGTAGTTCCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCGAGTCGTTTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGCTCAAGAGGTTTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGGCAGTCGCCGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGTACCAGAGTCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGTACCGTCGATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGTAGACAGACACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGTATTCAGCAGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGTCGTTCTCTATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTGTGGGGTCAACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTAGGAAGAAGTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCAATGTTCGGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCAATTCATCTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCAATTCTCGCTTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCCGACAGAGAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCCGAGTCACCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCCTTGTACACGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCGGTAGAAGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTCGGTGTACTCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTTCAAGTATCGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_CTTTCGGCACTATCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAAATGAAGGTAAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAACACTAGCAGTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAACACTGTCTCTCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAACACTTCAAACCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAAGAATAGGGACCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAAGCCCAGCAATAGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAAGCGATCACCTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACCCAGCATAAGCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACCCTTTCACGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACCGTGAGACTCCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACTCAAGTTCAGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACTCTCTCACTCTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACTGATAGTGCTAGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GACTTCCCATGATCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGACTTTCAGGAACG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGGCAATCCGAAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGGGATAGTCACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGGGTAGTAAGCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTCATTCGTTGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTCTAAGGCCTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTCTACACGGCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTGTTGTCAGGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTTACCACTTGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTTTGAGTGGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTTTGGTACAGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GAGTTTGGTCGTACTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATAGAATCGATCCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCACACAAAGCTCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCAGTCAGATCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCATGCAGTTTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCCCTAGTAGGAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCCCTGTATCATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCGTATCACCATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATCGTATCCTTTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATGAGGGTCAACCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATGGAGTCATCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATTCGATCCGAGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATTCTTAGAGAGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATTGGTAGCGTGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATTGGTGTGGTAATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GATTTCTAGTGTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCACATATCAGCCCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCACGGTGTGAATTAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCACGTGTCTCCATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCACTAAAGAGTTCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCAGCCAAGCGTATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCAGCCAAGTCCCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCAGCTGAGGCTGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCAGGCTGTACACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCAGGCTGTAGCGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCAGTTATCATTGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCATCTCAGTTCCATG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCATGATTCACAGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCATGATTCACCTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCATTCTCGGCATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCCAGAAGTGGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCCGAACATTAAGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCCGAAGTGACGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCCGAAGTGCTCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCCGAATCCATTTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCGTGACAGGAAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCGTGATCGATTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCGTGATCTAGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCTGTTCACCCTTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCTGTTCAGGCTATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCTGTTCATCAGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCTGTTGTGCTTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCCTGTTTCGCTTTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCGAGAAAGTGCACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCGATCGGTGTTTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCGGAAAGTACCGTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCGGATCAGAAGCGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCGGATCTCTGGCCTT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCGTTTCTCCCTAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCTACAAAGCGTGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCTACAACAGCAATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCTGCAGAGGGATCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GCTGGGTAGCGTTAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGAACCCGTACCATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGAGAACAGCGCCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGAGAACCACCAGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGAGCAAGTATCGTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGAGCAATCGTTCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGAGGATTCAATGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGATCTAAGCCTTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGATCTACAAGTGGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGATGTTCAGCCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCACGTAGCGACTTT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCACGTAGTTTGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCAGTCAGTCACGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCAGTCGTTATTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCGTCACACCTGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCGTCAGTTGCTCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGCTTTCTCGAACTCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGACCTAGGTCGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGAGATTCGGTTGTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGATCCAGACGACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGATGAGTCAAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGCCATTCATTTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGCGTTCAATACGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGCTCACAATGGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTAGAAGGCAGGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTATTGTAACAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTCACTCATCAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTCTGTCAAATGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTCTGTCGCGTTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTTATTCACCGACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTTATTCCAAGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGGTTTACATTCACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTAACTAGAATTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTAGAGTCGGTGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTCTGGAGCTAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTGTTATCCGATCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTGTTATCTCAATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTTAACTCACGATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GGTTGTACAGATCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAACCACACTTGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAAGTCGTCCCAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAATCGTCACCGGGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAATGCCAGAGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAATGCCATGTGGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTACAACTCACCTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTACAACTCTTCGGTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTACAGTAGGTACCTT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTACAGTCAACGGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAGAGGAGAGCAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTAGTACGTTGGATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTATTGGAGTTGTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTATTGGGTTCCTTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTATTTCAGGATTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCACTCCATTCAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCAGCGCACAAGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCAGCGGTGGAAATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCATCCCAGTTAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCATGAGTATGAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCATGATCGCACTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCATTTAGTAAGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCATTTGTGACAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCCCATCAATCGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCGAATGTAATTGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCGTTCGTCCTGGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCGTTCTCGTTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCTACCGTAACAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCTAGAAGATAACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCTCACAGCCAAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCTCACGTGCCCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTCTTTAGTAACGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGACGCGTAACTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGAGCCGTCCGATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGAGTTTCCCACAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGAGTTTCGTGTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGAGTTTCGTTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGCACGGTTTGGGAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGCACGTCTCCCATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGCTTCCACCGGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGCTTCGTACGGCAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGGAGACACTACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGTAACGTGTAGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGTCCTCAAATTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGTCCTGTCAAGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTGTGGCTCAGGAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTACCCAGGCAGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTACGAGTCCCACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCATTCAGAGGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCATTTCGAGCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCCGTAGGACGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCCGTTCTGGTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCGCTAGCCAAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCGCTCAGGTGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCTATAGTTCATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCTATTCGATACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTCTATTCGCGTAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTGAACTCCGATGCG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTGCTCTCATTTGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTGTGATCAGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTTGGAAGTCGAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTTGGAGTTGTGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_GTTTGGATCTGTCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAACACGCAACTTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAACACGCACAATCTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAACGACCAAACTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAACGACCACCCAATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAACTTCAGAATAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAAGCGTTCACTTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAAGTCGGTTACTCAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAATCTCCAGCCGTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACAACGGTCGATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACACCCCACGTTGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACACCCCAGGAGACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACACCCGTGGTGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACACCCGTTTACGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACACCCTCGCAGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACAGGTGTTTCACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACATTCAGAGGTGCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACATTCCATGCCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACCCACTCAAGTCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACCGAAGTAGAGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACCGAAGTAGCGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACCGGGTCACCTCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACCTCGAGACATAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACCTGCCATACTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACGCTCGTACCAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACTGCCCAAGACCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACTTACTCGCGATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TACTTGTGTCATAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGACCATCCACGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGACTGGTCACGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGAGTCCATGACAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGATCGAGGACAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGATCGCAGGCTATT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGCACACATGTGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGGAGGAGACAGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TAGGGTTGTAGACACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATACCTCACGAAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATATCCAGCGTTAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATATCCCAAGTCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATCAGGGTTGCATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATCCTAAGATACATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATCGCCTCAGAACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATCGCCTCTTAATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATCTGTTCGTAGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATCTTGTCGATGGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATTGCTTCTTAGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATTGGGGTACCGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TATTTCGAGCATGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAAGCAAGGCATGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAAGCAAGTGACACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAATCTGTCTTGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAATCTTCAAGAGGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAATTCCAGGGCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCACGGGTCAGACCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCACTCGAGGAGGGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGCAAGTAGAGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGCAATCACGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGCCTCATGGGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGCCTTCTGTCGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGGGCGTGACTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGGGCGTTTCCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGTGAGTATGCGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCAGTTTCATGTAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATACTAGGGTGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATACTCATCCTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATATCGTAAGGAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATCATCACGCCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATCATGTCTCCCTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATCATTCCGTCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATCCGGTGCCCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATCCGTCCGCTAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATGAGTCGTTGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATGCCCAGTATTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATGCCGTCGGTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATTACTCCGGCAAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATTCATCTCATGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCATTGTAGAGTTGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCACCAAGAGAGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCACGTCAGGACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCCACAAGGGATCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCGAAACACTTGGGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTAATGTATCGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTCCCGTCTACACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTCTTGTATGAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTCTTGTCGGTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTCTTTCACCGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTCTTTCCAGTGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTGCAAGGCAGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTGCACAAGAGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTGCATCGTGGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCCTTCTCAGTTGAAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGAAGTAGGTATCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGACCTAGGTCCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGACGGGTCATATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGATTTGTCAGACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGCACTTCGTCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGCAGGCAAACCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGCAGGGTTCCGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGCTCAAGTCCGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGCTCAGTACCCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGCTTGGTGCCCACA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGGTCTGTAGCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCGTGCTAGCACTGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTACATGTGCCCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTATACGTCATGGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTATACTCATTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTCAGCTCAGACATC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTCCGAAGTTCAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTCTGGAGCTACTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTGGCTAGCGTCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTGTCGCACGCACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TCTTAGTGTGGTAATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAATCGAGCGGATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGACAGTCACACCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGACTCCCAGGCTATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGACTCCGTTGCGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGACTAGATAGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGCATAGATCCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGCATTCAGTGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGCGCAGAGCCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGGAGCAACAGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGGGACAAAGGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGGGATCAGCTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGGTTGTAAGATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGGTTTCAACTTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGTCACAGTTGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGAGTCATCTGTCGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGATCAGAGCATGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGATCTTGTGAACTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGATTCTGTTTCGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGATTTCGTTCTAACG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCACGGAGACACACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCAGATTCTCGAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCAGGCAGAGGGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCGACGCACATAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCGATATCGTGCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCGGCAGTCTTCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCTCGTCAGGTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGCTGAACAACTGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGAACTGTCGTCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGAGAGAGGACAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGAGAGGTCAGTTTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGAGAGGTTAACAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGATCACATTGAAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGATGTCATTCAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGATGTGTCGAGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGATGTGTGGGACAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGGAGACACCGCTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGTACAGTCACTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGTGATTCGATTCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGGTGATTCTCAGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTAACGTCCCAAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTAAGCGTCGGAACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTACAGGTAGGTACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTAGACAGGCATCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTCCTGAGCGGGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTCCTGGTGGACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTGTGACAATCTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTTCTATCTATCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTTGAGCACTGCGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTTGAGGTAAGTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTTGAGGTCTACTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TGTTTGTTCACTTCTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTACAGGTCAAGCCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTACCATCACGCTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTACGCCAGGGACTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTACTGTTCACTAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTAGTCTCATGACTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCAATCGTCCTCAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCACGCAGAGAGAAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCACGCAGAGCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCACGCGTGTGCCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCACGCTCACACGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCAGGAAGACTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCAGGATCTCTAAGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCAGGATCTGGAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCATGTCAACCGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCATTGTCCACTTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCAATGTCGTATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCACGGTACCAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCACGGTCGCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCACGTCCAAGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCGGTCATTGACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCGTGGTGAGTAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCTAAAGGATGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCTAATCACTGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCTCTCAATCGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCCTCTGTCGTGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCGATTCAATCCTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCGATTCATAATCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCGATTGTACCAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCGCTGCAATCGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCTCTCAGCCTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCTCTCCAGGACTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCTCTCTCTTACTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCTGTATCGGAGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTCTTCCGTGTCGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGAACGAGTGCAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGAGTGAGGATCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGAGTGAGTGGATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGCTGCGTCCGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGGTTTCAGGTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGTGGAAGAGTGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGTGGATCCTCTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGTGGATCTGTGCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGTTTGCAATAACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTGTTTGTCGAAACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTACCACATCGCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTATGCGTAGTCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTCAGTTCACGGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTCATGCACTCCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTCCTCGTCTTCATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTCGATTCTCGTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTGATCTCATTTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTGGAGTCCGTTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTGGTTCACAGTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTGGTTTCACACCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938171_ReSisTrace_NK_1_pre_treatment|BT_TTTGTTGCACTGCTTC-1",
+    "label": 0
+  }
+]

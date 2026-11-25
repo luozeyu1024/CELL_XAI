@@ -1,0 +1,906 @@
+[
+  {
+    "cell_id": "GSM4161452",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161454",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161456",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161457",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161458",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161459",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161461",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161462",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161463",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161464",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161467",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161468",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161470",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161471",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161474",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161475",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161476",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161477",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161478",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161479",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161480",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161481",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161482",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161483",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161484",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161485",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161486",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161487",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161488",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161491",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161492",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161493",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161494",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161495",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161496",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161497",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161498",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161499",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161501",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161503",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161505",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161507",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161508",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161512",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161513",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161514",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161516",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161517",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161518",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161519",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161520",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161521",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161522",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161527",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161528",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161529",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161530",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161531",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161532",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161533",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161534",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161536",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161537",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161538",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161539",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161540",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161541",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161543",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161544",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161545",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161546",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161547",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161548",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161549",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161552",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161554",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161555",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161556",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161557",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161558",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161559",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161560",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161561",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161563",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161564",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161565",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161566",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161568",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161569",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161570",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161571",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161572",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161573",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161578",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161579",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161580",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161581",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161583",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161584",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161586",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161587",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161588",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161589",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161590",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161591",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161592",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161593",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161594",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161595",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161597",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161599",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161600",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161601",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161602",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161603",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161604",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161605",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161606",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161608",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161609",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161610",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161614",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161617",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161618",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161619",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161620",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161621",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161622",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161624",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161625",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161628",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161629",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161632",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161633",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161635",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161636",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161638",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161639",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161641",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161642",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161643",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161644",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161646",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161648",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161649",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161650",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161651",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161652",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161655",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161656",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161657",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161658",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161660",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161661",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161662",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161664",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161665",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161667",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161668",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161669",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161673",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161674",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161675",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161677",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161678",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161679",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161681",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161682",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161684",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM4161686",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161687",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161689",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161690",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161691",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161692",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161693",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161695",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161696",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161698",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161699",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161701",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161702",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161703",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161704",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161706",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161707",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161708",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161711",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161712",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161713",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161715",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161717",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161718",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161719",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161720",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161722",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161723",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161724",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161725",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161727",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161728",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161730",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161732",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161733",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161735",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161736",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161737",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161740",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161748",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161749",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161751",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161754",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161756",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161758",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161759",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161760",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161761",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161762",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161763",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161765",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161767",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161768",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161769",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161770",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161772",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM4161773",
+    "label": 1
+  }
+]

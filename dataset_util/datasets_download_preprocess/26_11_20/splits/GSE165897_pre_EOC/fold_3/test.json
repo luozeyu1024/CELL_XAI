@@ -1,0 +1,2250 @@
+[
+  {
+    "cell_id": "AAACGGGTCCTGTACC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGTAGGTCTACCTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAAGTAGTCGCCTGTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AACCGCGTCTGCGACG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCTTCATTGCGGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AACTCTTGTGTTGAGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGCCGCGTCGAACAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGAGCGTTAAGTAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGCAGCAAGCCCAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGGTTCAGGCTAGGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAGTCTGTCGCGTAGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCCTCACCGAAAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACACCGGAGACCCACC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACAGCCGCACCGAATT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATCAGTCGATCCCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATGGTAGGTAGCCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATGGTAGTGTGGCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACATGGTTCAGAGCTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACCCACTAGATATACG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCCAGGTATGAATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGAGAAGCTATGCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGAGAGTTTACTCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGGAGATCAACCATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGATGGTACAGTTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGCTCGTCGAACAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTTACTCAAGTCTAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGATTGCCAGTGGGAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCATACCAGCTGCAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTATAGGTGCAAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCTTGATCCTAGTGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGAGTGTCGACTGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGGATGAGTATGACA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTAGTCGTCTAGGTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTCTTTTCGGCATCG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AGTGTCAAGGCTACGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAAGAGCAGCTGCTG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAAGAGTCCAGATCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCATGGCACGGCTAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCACCAGGCACATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCACCAGGGCTCTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCCGAATCCCTTGCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTGCCGTAGCTGCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGGGAGTCACCTCGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGTGTGGTAGTAGTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTATCCCAAGCCGTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "ATTGGTGCATACGCCG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAACCAAAGATGGCGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAAGATCCAAGAAAGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACCTTCGAGCCCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CACACCTTCTGGCGAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CACCAGGAGGCTCTTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCAGCAGGTACTCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTAATCGCCATAA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGCTGGCAGTTAACC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGGTGCTCTGATACG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGTCCTAGGTTACCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CATATGGCAGTCAGCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCAGATCAGAAATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CATCCACCATACTCTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGACACACCCATTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGCCTCAAACTGTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CATGCCTTCAGCTCGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCACTACTCGACAGCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCAGTTCATCCCATC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGGTAGCATTGCGGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTGGATCGAACGGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAAAGTCAGCATGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACACAGCATCATC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTAGCTTCTTGCAAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTCTGAGTCTAAAGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGACCTTCAAAGCGGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCACTCTAACTCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGAGCCAAGCGTAATA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTATCCATAGTAAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTGGACAGGGCATA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACACAGGGATGGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACGTCAAGGCTCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGACGTTCGAGAGCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGGAGTCCAGCAGTTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTCCATTCCAAACAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTGTCTTCTTGTACT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTAGAGTGCATCTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CGTTCTGGTGAAGGCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAACTTCATGGTAGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAAGACTCTCGTTTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAATGGGTGAACCTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACACCTCATCATTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTACCCAAGTCTCCTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAGAGTAGGTAGCCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTAGTGAAGTGTACGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCCTAGTCGGTTCGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTACAGACTACAA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTACGTTTGACAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGTCAGTGGAAAGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCTGGTTCGCCAAAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGAAGTTCACCTCGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTGTTTAGTAGCACGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTACCGCATCGGGTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAGGATCAAAGACA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "CTTAGGATCAGCGACC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GAACGGATCATCGGAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GACACGCCAAGGACAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GACCTGGAGAGGGATA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GACGCGTAGTTGAGAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGAAGAATTGTG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GAGGTGAGTTTGTTTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTAGTCGTTTG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCAGTTCATCTGCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGCACCAGCAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGCGTCTTACCGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCGTAGTCGAGATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCTAGCAGTGAGTG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATCTAGGTCTAGAGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAAAAGGAATGGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAAAAGTGGGATC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GATGAAAGTAAGCACG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCACTCTAGAATGTGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCATGCGGTCTAAAGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGACCAGTTACCGAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCCAACAAGGTTCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGCGATCATAGAAAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGGGTTCAAGCCGCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCGGGTTCACCACCAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCGACAAGGACAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTGCGATCCATTCTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTTCCACACTTAACG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GCTTGAAGTTTGACAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAAAGCAGGCTAGGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGAATAAAGTGAACGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAAGCACGCGAAA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAGATCCAGTATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACAGATCGAACGGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGACGTCAGCTAGTCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGATGTTGTACAGTTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCAATTCAGGAATGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCGTGTAGCTGCCCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGCTGGTGTGACTCAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGAGATCATACCATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGCACTAGGTGATTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTCTGTCAGCGATT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTTGCAGTGTACGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GGGTTGCGTGAGGGTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAGGCCAGCCCGAAA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCAAGTGTAAGAGAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGGGTGTACTTCTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGTAAAGCTATGCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTTCGTCAAGATCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCAGCGTAAGTGGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCTTCCAGATCGGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGCTTCGTTGACGTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTAAGCGTACCGAGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTACAGTCTTATCTG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "GTTCTCGAGAACAACT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TAAACCGCACCCTATC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TACACGACACAGGTTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TACAGTGGTCATATGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TACCTATAGTCAAGCG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TACCTTAAGTGTCCCG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGATTCATGCATG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TACGGTAGTTAGAACA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGACCAAGATCCCGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGAGCTGTCCCGACA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTGGTTCATTTGGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TAGTTGGTCGCCATAA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCACAAGAGTTAACGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCACAAGGTAGCCTCG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCAGCAACAGTACACT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCATTTGAGTATTGGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCCCGATCATACGCTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGAGGCAGAACTCGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGGTAACAGTCGATT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTACCCAAGCTGTT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGTACCGTAAGTGGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTTTCCTCGTATCAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAAAGAAGAATCTCC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACAACAGTAGATGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGACTTTTCTCGTTTA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGAGGCAGTGGAGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGCATAGGTGCACA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGAGGGATCTGTCAAG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCGTAGAGTGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGATTTCGTGCCTGCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCGGGTAGTGTCCAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGCTACCGTAGAGCTG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGACGCAGTGCCATT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGACGCGTTCCGTCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGCCAGTCAAACGGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGGGCGTTCCAGTAGT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCCACATTAGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTATTCCATGCCTTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TGTCCCACAATGACCT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGTTCAGGAGTTGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTAGTTCGTGGTTTCA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTATGCTAGCTGGAAC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTATGCTCAAGCCGTC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTATGCTGTCATATGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTACAGTGTCAATC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGCAGTAACGG-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGCAAAGAGGTTAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGCAACAGTAGAGC-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGTAGGTCTTGACGA-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGGTTAGTGAACAT-EOC540_p2Ome",
+    "label": 1
+  },
+  {
+    "cell_id": "AAACCTGCACCAGGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAAGCAATCTGTCCGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAATGCCGTCCTCCAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACACGTAGAGCTTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACCGCGAGCATCATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACGTTGGTTCCATGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACTCAGAGTGCGTGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AACTGGTGTTACGCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAGGAGCAGCGAGAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAGGAGCTCCAGAAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AAGGCAGCACTTGGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AATCCAGAGTTCGATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACACCGGTCATCTGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACAGCCGGTTTACTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACAGCCGTCGCAGGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACAGCTAAGAAGCCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATACGAGCACCGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGAGACTAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGCAGATGGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGGTCCTGCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATCAGTCACCAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATGGTTCTGAGTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACCCACTTCGGCTTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACCTTTAAGACTAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGAGCCAGAGGTACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGAGGATCTGAGTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGATACTCGTGGTCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGGGCTCAGTTCATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGTCAACACCGCTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACGTCAAGTTTGGGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACTATCTAGGGAGTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACTGTCCCATCGATGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACTGTCCGTAATCACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGAGCGACATGGTTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGAGCTTCAATCGGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGATCTGAGCAACGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGATCTGTCACAGTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCATACGTTACGCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCGTATAGTATTGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCGTCGTCATCGATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCTCCTCATTGAGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCTCTCAGCGCTCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGCTTGATCCACGTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGAGTTCGAACGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGATGAGGGCACTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGATGCATCATCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGTGAAGAGGTAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGGTGATCGCCCTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGTCATCACAGACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGTCATCACTGTCGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGGTCCGGTTCAGTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGAGGCAGTCACTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGAAGCAGCGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGAAGCTGATAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGACATATGGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTGGGAGTACCGCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "AGTTGGTGTAAATGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATAAGAGAGCCTCGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCACGAAGGGTCTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCACGACACGACTCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCACGATCAGTCCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCACCAGGTTACCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCACCGTTACCAGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAAAGTCCGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAACAACGATGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAACAGATGAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATCCGAAGTGATGCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATGAGGGGTAAGTGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATGCGATCATGGTTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATGGGAGAGGGATCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTACTCGTAGCTTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCAGGGTCGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCCACAGAGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCTCACATGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTATCCTCATTTGGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTCTACTCGGTTAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ATTTCTGGTCCGTTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAACCAACAGTGACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAACCTCAGCGATAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACAAACCAGACTCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACAAAGCGTAGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACAATCAGCTCGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACCTGTGTTAAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACACTCAGATGCCAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACATTTTCGATCCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACCACTGTATAGTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACCACTTCGGACAAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CACTCCACAAGAAGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGAATCAGAGCTATA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGAGAGGTCTAAAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGATCACAAGGTGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGATCACATCAGTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGATCATCATTATCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCAGCAGTACCGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCGACAGCGACGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCGACAGGAGCGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCGACCACCTCGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGCTGGCAGGGCATA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGGTGCAGCAGCGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGGTGCCAAGCTGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CAGTAACCATATGGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATATGGAGACCACGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATATGGGTTTAGCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCAAGCAAACCCAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCAGAAGCGCTCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCCACTCCTCATTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CATCGAATCGCGATCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCAATCCTCTACTCAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACCTAAGCAATCTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACCTAGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACGGACAACTGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACTACAGCGTGAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCACTACAGTTGCAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCATGTCGTCTCTCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCATGTCTCTGGAGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCCAATCTCAGTTTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCCAGTTGTCTTCTCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCCTCCTGTGTGAAAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCGTACTCAGCCTGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCGTACTTCAACGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCGTTCAGTTCGCGAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACACGTAGCGTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACACTCTACTTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACCACATCAGTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTACCATCCCATTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTATTACAGTTTACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTCAGTCACCCATTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTTCCCAGGCGTACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTTCGAGTCCTGCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CCTTCGAGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGAGCCAAGACAGACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGAGCCATCACAAACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGAGCCATCGTCTGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGATTGATCATGTCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGCGGTAGTTAGAACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGCTTCAAGCGTGAGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGACACAGACGACGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGACACTCGCTTAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGGTCATCCGCATAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGTTAACATCACGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGTTAACATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGGTTAACATGTTGAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGCGGTGTCCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGGCAGAAGGTTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGGCCACGAAAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTAGGCCATGCTGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCAGGCAAGCGTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCCATGTAGCCTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCTACCATCCGTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTCTACGTCTAAACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTGTCTGTATATGGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTTAGAAGCATGGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTTCTGAGCTCAACT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CGTTCTGCATCCAACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTAATGGCATTCTTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTACGTCGTTATCACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTAGTGAAGAAACGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCCTAGTCCATTCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCGAGGAGATCACGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCGTCAAGCGGCTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCGTCATCACTCCTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTAATAGCATCATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTAATTCACAAACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTACGGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTCTGGTAGTACACCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGAAGTGTCTTCGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGATAGAGCTAAACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGATAGTCTCGTATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGCGGAGTTACGACT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGCTGTGTGGACGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGCTGTTCAATCACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTGTTTATCATCATTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTAGGATCTGGTTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTAGATAGTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTCAGCTCCGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTCATCGATGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "CTTCTCTGTATATGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAAATGACATCGGAAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAAATGAGTTGCGTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAACATCAGACTGGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAACATCCACCGAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAAGCAGGTCCATCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAATAAGGTAGCGATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAATAAGTCGCGTAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAATAAGTCGCTTGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACACGCGTATTAGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACAGAGAGTGTCCCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGCGTTCCTCAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGGCTTCTTACCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGTGCCAAGTAATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGTGCTCTGCTGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACGTTAGTACCGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACTAACCACTTCTGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GACTACATCACCTCGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GAGCAGAAGCGATAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATCGATTCCTCATTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATCTAGGTGGCTCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAAAAGTGGAGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAAAGTCATCGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAAATCGGGAGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGAGGGTCGTCTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGCTACAGCTGTGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GATGCTAGTCCAGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCAAACTTCATACGGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCACATATCTGTGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCATGCGGTCTCTTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCATGCGTCAAGATCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCATGTATCGTAGGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCCAAATTCCACTGGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCGACCAGTCTTGTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCGCAACGTCGTTGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCGCAGTAGACCTAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTCCTATCGAGGTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCAGCAGTGACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCAGTCTACTTAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCGACAGGCAGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCTTAGGCGCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGCTTGTTGCCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTGGGTAGAGGTACC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTTGAACAATAAGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GCTTGAAGTGAACCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGAAAGCTCATGCATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGACATTCATTCCTGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGACGTCAGCTCCCAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGACGTCAGGATGGAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGATGTTCAGTCACTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGATTACCACGCCAGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGCCGATCAGCTGTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGCTGGTTCTAACTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGAATGTCACCAGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGATGACATATGAGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCACTGTCACTTCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCATCGTATTCGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCATCGTGAGGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGCATCGTGTGACGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGGTTGCCAATGGATA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGTGAAGCATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GGTGAAGTCATGTCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTACGTATCGTCGTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTACTTTAGGGCTCTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTACTTTTCAGGCCCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTAGGCCGTACATGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTAGTCACAAGGACAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCAAGTCACGCTTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCAAGTGTTATTCTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCACGGGTCGCGAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCGGGTCATAAGACA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCGGGTTCAGTTGAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCGTAAGTGATAAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTCTCGTGTAAAGTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGAAGGGTAAATGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGAAGGGTGCTGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGAAGGTCTGCCAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGCAGCAGCAGATCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGCATATCTCAAGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGCGGTTCTTAGCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGTGCGCAAGAAGAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGTGCGCAGGATTGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTGTTAGTCCTCTAGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTAAGCTCATATCGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTACAGAGCCCAGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTCATTAGTGTACTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "GTTCGGGCAAAGGCGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAACCGCAATGAATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAACCGTCTATCCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGAGACAAATACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGCGTAGTCATGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCGTAATAGCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCGTACAAGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCTCAGCTGGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAAGTGCTCGTCCGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACCTTATCTCATTCA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACGGATTCGGTCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACTTGTAGCTAGTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TACTTGTTCACAGGCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAGAGCTCAAGCGATG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAGGCATGTCATCCCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TAGTGGTGTTCGCTAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TATCAGGTCCCATTTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TATTACCCAATCGAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCAATCTGTGCGAAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCACGAAAGTCGTTTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCACGAATCTGCTGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCAGCAAGTGCAGGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCAGGATAGTACGACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCATTACGTGGACGAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCGAGGCCAGCCTGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTATTGAGATCCCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTGAGACAGGTCGTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTTCGGCAACTGCGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TCTTTCCAGATATACG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAAAGACATGGGAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGACAACTCGCTAGCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCATAGCAGGCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCATAGCCCAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCCGAGCGATCCC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCCGTCCGCTGTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGAGCCGTCGGAGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGATTTCAGTTGCAGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCCAAATCGTTACAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCCCTACAGCTGCAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCGGGTCAAGCCCAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGCGGGTTCTGGCGTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGCGCACATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGGAAGAGGGATGGG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTAGAGACGCAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTAGCAGCTGTAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTAGTCAGTTCGA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTCCCACTGTTAG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGGTTCCGTTGGTAAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGTATTCGTGCTCTTC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGTTCCGAGCGTGAAC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TGTTCCGCATGACATC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGGACAGCCACGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGGCAAGAGGGCTT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGTTCGTCAACTGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTAGTTCGTGCAGGTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTATGCTTCACTTACT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTATGCTTCTGTGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCCCAGCAATGGAAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCGAAGCAGACGCAA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCGGTCGTACCGGCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTCTACAAGCTACCTA-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTGCGTCGTCTAACGT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTGGCAAGTCATACTG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTGTAGGCAAAGCAAT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTACTGGTACTCGCG-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTCCTCTCCGAACGC-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTGCGCGTGTCCTCT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "TTTGGTTAGCCCAATT-EOC153_pOme",
+    "label": 0
+  },
+  {
+    "cell_id": "ACATGGTTCTTGAGGT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "ACGCCGAGTTCAGTAC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "ACTGATGTCTGAGTGT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "AGCGTCGGTATGGTTC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "AGGCCACAGACTGGGT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "ATAAGAGGTGGACGAT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "ATCTACTTCCGTAGGC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "ATGTGTGTCTCGTTTA-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGAGAGGTTGGTTTG-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CAGGTGCGTAGTACCT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CCCATACGTAGGAGTC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CCGTTCATCACTTCAT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTACCAAGCCTATGT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CCTTCGACAAAGTCAA-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CGCTGGATCTTAGAGC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "CTCGGAGGTCTTGCGG-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAATGATCGTGGTCG-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GAAGCAGTCACATAGC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GACACGCGTCTGATCA-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GTACTCCTCCACGAAT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GTAGTCAAGCCACGCT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCGTAACAATTCCTT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GTCTTCGTCCGTAGGC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "GTGGGTCGTAGAAAGG-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "TCGCGAGGTCTGCGGT-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "TCTCATAGTACCGAGA-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "TTCTCCTTCACTGGGC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGAACGGTCGCTTTC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "TTGGCAACAAAGAATC-EOC349_pPer2",
+    "label": 1
+  },
+  {
+    "cell_id": "TTTGTCAGTCCAGTTA-EOC349_pPer2",
+    "label": 1
+  }
+]

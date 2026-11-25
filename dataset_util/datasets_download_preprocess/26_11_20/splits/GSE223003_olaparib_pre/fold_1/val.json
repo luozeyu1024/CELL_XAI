@@ -1,0 +1,3750 @@
+[
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAACGAAGTAACACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAACGAATCCCAACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAACGAATCGAATGCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAACGCTGTCAACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAAGAACAGTCTACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAAGAACCAGCAGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAAGGTATCTTCCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAAGTCCTCAGCCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAAGTGATCAGAATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAATGGATCTATGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACAAAGGTTTCGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACAAAGTCATCAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACAACCCACATACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACAAGACATGTACGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACAAGAGTTCATCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACACACCACACCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACAGGGGTCGTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACCACAGTCAAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACCCAACATGATGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACCTGACAAATCGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACCTTTAGTCACTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACCTTTTCATTGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACGAAAAGACCAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACGAAAGTCCTGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AACTTCTTCGCTCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGACAAGTCGTTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGATAGCATCCTGTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGCCATCATCGTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGCCATTCATTTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGCGAGTCCCAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGCGTTCAAGTGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGCGTTGTCATGGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGCGTTTCCCGAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGGAATAGCTGTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGGAATCAAGGCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGGAATCATGGGTTT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGGTAAAGACCATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGGTAAGTTTGGGAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGTGAACACTCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGTGAAGTAAGCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGTGAAGTAGTCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AAGTTCGAGTACTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATCACGCATACCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATGAAGAGCAACAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATGAAGGTGTTCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATGAAGGTTTACTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATGCCAAGGAGCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATGGCTCAATCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATGGCTGTGAATTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AATTCCTCAGAGATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACAAAGAAGAATTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACACGCGTCATACAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACAGCCGAGTATTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACAGCCGGTACTCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACAGGGAAGTTAACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACATCCCAGACGTCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACATCCCTCCACTTTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCAAACTCTGTCGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCACAAAGCGTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCCAAATCGTCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCCTCACACCTGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCCTCACAGACAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCCTTGGTCAACATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACCTGTCAGGCAGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGATCAAGTCTAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGATCACAAACCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGATGTCAGACTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGGAAGCACCAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGGGTCAGGGCAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGGTTAAGGGTTAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGGTTATCGTAATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGTAACAGCTAGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGTACAGTCGCTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGTAGTCAGATCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGTAGTGTATGTCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACGTTCCCACCAGCGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTACGAGTGGAGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTATCTGTATCTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTATCTTCTGCCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTATGGAGTCAGCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTATTCGTCAAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTCCCAAGTTGCCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTGTCCCACTCCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTGTCCTCTTCCCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTGTGACATATTCGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTGTGATCGAACCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTTATCTCCCTTTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTTCGCCAAACACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTTCGCTCAGCCCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ACTTTCAGTAAGCAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAAGCGAGGCTAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAAGCGTCTGGCTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAAGTAAGCCTCTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAAGTAAGCTTGTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGACAAACATGACAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGACAAAGTAGTATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGACACTAGACGAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGACACTGTTCTGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGACAGGAGCTCTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGACCCGCACCAGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAGAATGTCTACTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAGAATGTTTACTGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAGCAGGTATTGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGAGCAGGTGCATTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGATCCAGTTTGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGATCGTAGCGCACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGATGCTCACGCTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCATCATCAGAGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCCAATGTGCCTGAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCCAATTCCAAACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCCAATTCGGTAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCCACGAGCAAATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCCAGCAGGCGTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCCAGCTCTGCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGATTCATCAACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGATTCATTCTTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGATTGTCGCCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGATTTCGTGGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGCTGGTCGATTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGCTGTCAAACTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCGCTGTCGCAGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCTACAAGGTGGTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCTACAGTCGAGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGCTTCCGTGCCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGAAATCAATTCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGAAATGTTATTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGACGAGTAAGATTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGACTTAGGGCAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGACTTCAATACCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGAGGTCAGCCGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGAGGTTCCGTATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGATAACATACAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGATCTTCACTCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGATCTTCGGTCTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGCATTAGTCATGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGCATTGTACATTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGCCACCAACACAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGCCACGTATGGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGCTGCTCGCTACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGGCTCAGTGGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGGCTCGTGCCGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGGCTCGTTCTCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGGTGACATGTACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGGTTTTCAACTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGTCTATCAGTAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGTGTTAGACTCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGTTGTGTTGCTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGGTTGTTCGATGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTACTGCAGTTAAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTAGCTCAAATAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTCACACAACCGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTCATGGTTCGTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTGACTAGCCGTAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTGATCAGTATCCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTTAGCTCTCGTTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_AGTTCGACATAGTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATACCTTTCGATACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATAGAGACAGACCAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATAGGCTCACTACCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATAGGCTCATCGGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATAGGCTTCCAATGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATAGGCTTCCTTATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATATCCTAGTGACCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATATCCTCATCCGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCACAGGTTCAGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCACGAAGCAAGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCACGACATTATGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCACGAGTTCGGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCACGATCGCTTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCAGGTCACGAGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCACCAGACCATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCACCCAATCGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCACCCATCGGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCACCGTAAGACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCACCGTGCAATGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCATTTCTGCGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCCTGCAGAATGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCCTGCATTAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCCTATAGAGGGTAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCGCCTAGTGTAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCGGCGCACCTAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCGTAGGTAACGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCGTCCTCTCCAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCGTGAGTTGCCGCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATCTCTACATTGCCTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGAGGGAGAGCCTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGATCGGTTACAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGCGATAGCCTCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGCGATCATTCCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGAGGAGTACCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGAGGGTACGGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGAGGTCTGAACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGATCAGAGCAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGATCAGCAGTACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGATCAGTTTAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGATCCACGCAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGATCCACTGTCGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGGAGCACTGAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGGTTAGGTAGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGGGTTCAAATAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATGTCTTTCGCGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTACCTGTCGTGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTACCTTCTAAACGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCACTAGCGCGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCACTAGTAGGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCACTTCCGAGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCATCAGAGTTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCATCAGGAGTATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCCATCAGCAGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCCATTCCTGTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCCCGTCAAGCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCTACGTTAGCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTCTTGAGGGCAGGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTGGGTGTCACTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTACCAGAAACTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTACCGTATAGGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTACCGTCGTCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTACCGTTGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTCACCACCGAATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTCACGTGAGATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTCTGAGCGCACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_ATTTCTGAGGTCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAACAGTAGTAGGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAACAGTGTCGCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAACAGTGTTAGAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAAGACTCATCGTGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAAGAGGCAAAGACTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAAGAGGGTCACCCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAAGCTAGTAGACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAAGGGAGTCATATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAATGACCACGCTATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAATTTCTCTGTCGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACAACACAAGAATAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACAACACAGTCTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACAGATAGCCTATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACATGACAAAGCGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACCAAATCGGTCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACCGTTTCGAAGGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGAATAGCAAGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGAATCAGACACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGAATCAGCGGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGTGGAGCTGTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGTTCCAAGTTGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGTTCCAGCTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACGTTCTCTACTTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTAAGGTACGAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTGAACAAGGTACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTGGGCAACGTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTGTCAGTAGTCAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTGTCGTAACACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTTCGCAATAGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTTCGCAGAGATGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CACTTCGTCGACTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGAGCCTCGACCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGATACAGCTTTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGATACAGTGAACAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGATACTCTGCAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGATCATCCACTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGCCAGTCAAATGCC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGGCCAGTTGCCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGGCCATCGCAATTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGTTAGGTTTGTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGTTAGTCGGTCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CAGTTCCCAGAAGTTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATACAGAGATTAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATACAGCAACCGTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATACAGGTCGTCGGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATAGACAGGACTTCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATAGACAGGGCGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATAGACGTTCTCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATAGACTCGAAACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCAAGGTATGCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCAAGTCCGCAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCCGTTCTAGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGCTAGCTAAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGGGGTATGAAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGGGGTGCCCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGGGGTTCCGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGTCGTCATACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGTCTCATGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATCGTCTCGGCTTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGCCTTCGCCTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGCGGGTCAACACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGCGGTCGTAGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGCTCCAGCTTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGGATCACTTGGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGGTACACGCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATGGTAGTCGGCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTCATCACACCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTCATCACTGCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTCATTCGGACAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTGAGAGAGTGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTGAGAGGTACTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTGCCCAGGTGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTGTTAGTGGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CATTTCAAGCGCATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCAAGCGTCCCGAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCAATGAAGCGTATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCAATGAAGTTACGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCAATTTAGAATTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCAATTTGTAGTTAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCACAAAAGGCAGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCACGAGCACGCAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCACGAGTCATTTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCACGTTTCCATAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCACTTGCAATCGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCACTTGTCTGGACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCAACTCAAGCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCATTGCAAACCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCGAAGTCAGCTGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCGGAAAGAGAGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCTAACGTAGACAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCTCAACAGCAGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCTGATAGGGAGGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCCTTAGGTGTGTGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGAACGCAGTGACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGATCTGTCAAAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGATCTGTGAGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGATGGCACATGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGCAAGGTTGATCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGGACATCGGCTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGGGTACAGTTGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGGGTAGTCAGTCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGGGTATCACTTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGGTGAGTGCTATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGTAGGTCAATCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGTGAGGTGCCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCGTTCACACGGAAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTAACCGTAGGTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCAACAGGGCCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCAACAGTACTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCACAAGCCTTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCCAACAAAGCAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCCAACAGATAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCCTCCACTCTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCCTCCATCTATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCCTCTCAGTCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCCTCTCGAGCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCTCCGTCGACTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTCTCCGTTGTAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTTGTGAGTCACTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTTGTGCATTGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CCTTGTGTCTCCGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAAGTTGTCGCCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAAGTTTCACCTCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAAGTTTCGCAATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAATTGCATTAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAGTGCAGCATGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAGTTACAGTCTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGAGTTACATAAGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGATCGGCATTGAAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGATGGCGTAGAGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGCAGGTAGTGATTCC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGCAGGTCAACTCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGCATAACAGTGACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGCCAGATCTGCAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGCGTGATCCAAGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGAATTCATGTGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGACACTCAGACCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGACACTCCCAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGAGAAAGCTCCCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGAGAAGTGGATCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGGCATTCATTGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGGTCAAGAATTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGGGTGTTCGTTCGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTAAGTGTTCGGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTAAGTTCTGTAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTCCATGTGATACAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTGCTTAGAGTAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTGCTTGTCCTACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTGCTTTCCGTGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTTCTGGTCAAAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CGTTGGGTCGCTGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAACCCGTATGATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAACTTAGTACCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAACTTCAGTGGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAACTTGTCTGCCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAAGTGAGACTACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAAGTGGTGACCGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAAGTGTCTACGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTACAGAGTGCCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTACCCAAGGCATGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTACCTGGTGAGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTACGGGAGAGTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTACTATCAGTCCGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTACTATCATGGACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAGACATCTTCCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTAGGTAAGGTTAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTATAGGAGAGTTGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTATCTAAGTCCTGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTATCTAGTTCGTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCAACCAGCCGGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCAATTGTAGCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCAGAAGTCTGTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCAGAATCATGTCAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCATCGGTCCGGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCATGCCAGTTAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCATTACAGGTCCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCAACAGATCCGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCACACACTCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCATGAGTCTCCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCATGTCGCTTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCCAATCGCACTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCCTCTCATCTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCCGATAGGAACATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCGAGGAGTGTTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCGAGGCAGGTTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCTCAGCAGGTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCTCAGTCAGCAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTCTCGATCCATTCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGAGGCCAACACTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGATCCGTTACCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGCAGGTCACAGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGCCATCAGCAGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGCCTATCCATAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGGACGGTAGCTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGGCAGTCAGGAAGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGGTCTCACTCACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGGTCTTCACAGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGTACCAGGGTACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGTACCGTTGTGGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTGTGAACACTACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTACCGCAATAGGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTACCGCATCCTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTACCGGTCGTTGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTCCGAGTTACGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTCTAAGTCGTTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTCTCTGTGACTGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTCTCTTCTGCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTGAGAGTAGTCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTGATTCAGTCGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTGATTTCCGTGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_CTTTCAACATGGGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAACCTCACCGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAATGATCGGAGATG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAACACTGTTCAGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGAATTCCACCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGCCCAGCTAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGCCCAGGCCTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGCCCGTCACAGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGCCCTCTAGACAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGCCCTCTCAGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGGACAGGATGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGGACTCACTCACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAAGGGTAGCGCCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAATCGTCAAATCAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAATCGTGTTGTAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACACGCTCAAGCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACACGCTCCAAGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACATCAAGACGCCCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACATCAAGGTCGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCAATCATTCAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCCAGCATTCGGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCCAGGTTGGTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCCAGTCTATCGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCCTTGTTGACTAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCGTGAGGCCCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACCTTCGTATCGTGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACTCAAGTTGCTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACTGATGTGTGGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GACTTCCTCATCGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGCTGCCACAATGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGGCAATCGGTGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGGCCTGTAGTGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGGGTAAGCGGCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTCTACACTAGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTGAGTCGTTGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTGTTCACAAAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTTACAGGTCTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTTGTCAGCGGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTTGTGTACTGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTTGTGTCGGTAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GAGTTTGAGGCTATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATCAGTAGCTCTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATCAGTCAATGGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATCAGTTCCCGAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATCATGCACGCTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATGACTGTGCCCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATGACTTCATCTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATGCTAAGCCTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATGTTGTCAAGCCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATTCGAGTACGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATTCTTAGCCATATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATTCTTAGGAGATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATTGGTCAAGGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GATTTCTTCCATGAGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAACCGGTAACTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAACCGGTCCACTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCACGGTAGTTGCGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCACGGTGTACACGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCACGTGCAACACAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCACTAAGTGCTATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAGCCACAATACCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAGCCAGTTGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAGCTGCATGGTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAGGCTCAAGCTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCAGTTATCCACACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCATCGGCACAAGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCATCTCCAGCGTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCATTAGCACGACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCAGGTAGTCGGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCAGTGGTAATGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCAGTGTCCATGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCATGGCAATAACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCATTCAGATCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCCAGATCGAGATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCGATGGTCCACATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCGTGAAGGACAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCCTGTTTCATTCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGAGAACACGTAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGAGAAGTCCAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGAGAATCTGAATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGATCGGTCTTGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGGAAATCCATCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGGATCTCCAAATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGTGCATCGCCTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGTTTCAGACCACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGTTTCAGCCTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGTTTCCACGCGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGTTTCGTATCTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCGTTTCTCGAATCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTACCTCAGCGTATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTACCTGTTTGCAGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTCAAAAGACCGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTGAATGTATTAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTGGGTGTCATTCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTTGGGCACTTGGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GCTTTCGGTCATCCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAACCCAGATGGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAACCCAGTTTCGAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAATGGGTTATTCTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGACGTCAGACGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGACGTCGTGGGTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAGAACGTCATATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAGATGCATGTTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAGGATAGCGGTAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAGGTAGTTGGAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGAGGTATCAAGTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGATGTTGTCGCATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCGTCAGTGATCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCGTCATCATCTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCGTCATCCATCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCTGTGAGACAGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCTTGGGTGGACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCTTGGTCGAAGGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCTTTCAGTATGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCTTTCCATCTTAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGCTTTCTCCACTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGAAGTCAGGTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGAAGTGTCTAGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGACCTAGCTGTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGACCTCATCGATAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGATCCAGTATAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGCGTTAGACATAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGCTACAGCACCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGCTACAGCCGCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTATTTCTTAAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTCACAGAGAAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTCACTCTTGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTCTGGTAGGGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTGAACACCGGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTGAATCCGCAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTGTCAGATGCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTGTCAGCGAATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTGTCGTTCTGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGGTGTCTCCACTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTAACTAGATCCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTAATCAGACATCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTAATCCAGCTTCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTAATCCAGTCTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTGGCTCAGCATACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTGGCTCATTCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTGGCTGTTGGCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTGTCGCATGTTACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTGTTAAGATGAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTTAACGTGAGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GGTTGTATCACTCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAACACAGCTAATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAACACGTGGCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAACCAAGTCTCCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAACCAGTCGAATGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAATGCTCCCGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAATGCTCTTTACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGAAAGTCCACGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGAGGCACCCTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGAGGGTAGCGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGATCAGCCACTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGATCCAATCACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGCTACAGGCACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGGAGAGCTTACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGGTTAGAGTCCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGGTTAGGCACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGGTTAGTTCAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGTACAGGAAGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTAGTACTCGTCGACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCAAACTCATACGGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCAAGTAGCATCAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCACGGCAGCATTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCACTCGTACTGTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCACTCTCACTTGGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCACTCTCCTAAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCATCCAGATACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCATCCGTAGGGTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCATCCGTTTCCCAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCATTTTCATCGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCCACTGTCGAGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCCACTTCGCTAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCCCATAGAGTATAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCCCATAGGTTGACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCCCATGTTCCTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCGAATCAGCGATTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCGAATTCTGCGGCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCGTAACACGAGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCGTAAGTTCTTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCTAGAAGCAAGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTCTCACAGGGTAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGACGCAGCTGACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGAGCCCACACCGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGAGGAGTGGCCTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGATGTAGGTGATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGATGTGTGACTCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGATGTTCTGACGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGCACGGTCGAAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGCAGCAGGCAGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGCAGCGTAGTTCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGCGTGCAGTCAGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGCTGGGTGTTAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGCTTCGTGTTAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGGAAGAGCTGTACT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGGAAGCACTGAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGGAGACAGCCCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGGGAACAACAGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGGGAACAAGTAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGGTTATCGAGTCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGTAACAGACTAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGTAACGTCCAGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGTGATGTGACAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGTGGCAGGTAGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTGTGGCGTAGCTCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTACAGCAAGTGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTACCCAGTACAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTACCCCAGGCATTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTACCCTCGCAATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTACGACACTCCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTATGGAGCACTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTATGGGTATTGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTATGGTCTGTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTCCGTAGCAAGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTCGCTCAGCGACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTCTATGTAACATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTGAACGTGACCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTGTCCTCGCTCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTGTGAAGTTCCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTGTGATCGGACAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTTGGACAGCGGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_GTTTGGAGTTCAGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACACGAGGACATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACACGCAGCTACCG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACACGTCCACACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACCAGGTCACCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACCAGGTCACTCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACCAGTCCTAGCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACGACTCGGCAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAACTTCCAGCATTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAAGTCGAGATGCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAAGTCGTCGGACCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACAACGCAGCCATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACAGGTAGTATTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACAGGTGTTTATGCG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACATTCAGTCCCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACATTCGTTGGATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACCCGTAGAATCGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACCTCGTCGTAGCTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACCTGCAGTTACTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACCTGCGTCTTTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGCTCAGCCACAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGCTCCAAGCCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGCTCGTAGCTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGGTACATAGACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGGTACATGGCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGGTATCAAGCCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACGTCCCACCATTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACTTACCAGCAGACA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACTTCAAGCCTGTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACTTCACACCAGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACTTCACAGCGAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACTTGTCACCAGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TACTTGTGTGGATCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGACCAAGTGGCCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGACCACAGAGCTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGACTGCAGCGGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGAGTCTCAAGCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGCACAAGATCGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGCACAAGTGCAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGGAGGAGCCATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGGAGGAGCTGACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGGGTTCAACGATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGGTACCACGACTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TAGTGCAAGCAAACAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATACCTAGGTCGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATCCTACAATGCAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATCCTATCGTTAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATCGCCCACTGGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATCGCCGTTTGTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATCTGTGTGACTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATGTTCGTTAAGACA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATTCCATCGTTAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATTGCTCACCGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATTGCTGTGATTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TATTTCGGTGACATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAAGACAGGGCGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAAGCACACCCAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAAGCAGTACAGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAATTCAGCATTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAATTCGTTATTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACAAGGTCAGACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACACCCACCGTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACACCCAGCATACT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACACCGTTGACTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACATTAGTGGTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACATTCAGAGAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACGCTCATCATGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACGCTTCTTGCAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACGGGCACGCGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACGGGGTACCGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACTATAGTCTGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACTATGTAGGCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACTATGTGGACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACTCGGTGACGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCACTCGTCAGAGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGCAACACCGTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGCAAGTATCGTAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGCCTTCAATGTCG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGGGCCACGACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGGTAGTGAGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGTGAAGCTGCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCAGTGATCATCGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATACTCATTAAGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATATCAGGCATCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATCATAGTATGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATCATCATAATCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATTACTCGAGATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATTTGAGAGACAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATTTGAGGCGTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATTTGCACACCTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCATTTGCACCCAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCACCAGTGTTGACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCACCATCTCTGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCACGTCAAGTGGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCACGTTCAGACCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCAGAACATATCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCAGAAGTCCAGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCATCGTCCCAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCCACACAACCGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCCAGTCACTTGACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCCATGAGTCTTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCGAAATCATATGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCGATCGTGAGAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCGTGTTCTGCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTAATTCTGGGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTCCCCAATTAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTCTTCACGCGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTGCAAGGCTATCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTGCAGTCGTCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTGCAGTTCAAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTGCAGTTGAGTCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCCTTTCTCATAGGCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGAACAGTACGTAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGAAGTTCGTGTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGACGGGTGTCCAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGACGGTCAGACATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGATTTAGCAATAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGATTTCACGTCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGCACTAGGTACATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGCTCACATAGACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGGATAAGGTCCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGGATACACTCCGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGGGACTCCGCAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGGGTGGTGTATACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGGTCTGTAGGACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGGTCTTCATTTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGTAGACAGGCTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGTAGACATCTCATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGTCCAGTCGCAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCGTGGGGTTCTCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTAACTGTGGTCTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTACATAGGACCCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTACCGAGTGCTCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTACCGCATCGCCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTATACGTGATACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTATCATCTCGTTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTCACGCAGTCAGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTCACGCATCCTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTCCGACAGCTGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTGGCTGTACGATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTGTCGCAGTGGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTGTCGTCTACGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTTAGTGTCCTACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTTGCGTCCAAAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTTTGATCCTCTAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TCTTTGATCGCCAATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAATCGCAACCCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAATGCGTCAGACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACAGTGTGATGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACAGTGTTAGAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACCCTTCCTACCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACCCTTCTAGTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACGCGCAGCATCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACGCGGTCTGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGACGCGTCCGATGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGACTCACTGTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGCGCCATTGGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGCGCGTTGCTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGGAGGTTGGTAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGGAGGTTTCGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGGGATCGACGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGAGTCAGTACGAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATCAGCACTCCGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATCAGTCACTTGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATCTTAGAGGACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATCTTGTACTGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATGCACACATACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATTTCGTCATACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGATTTCTCAGCATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCACGGGTGCCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCAGGCAGCATCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCAGTAAGTCCCAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCAGTATCAACTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCATCCAGGGCTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCATGACAACCTAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCATGACAACGGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCCGAGAGACATACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCCGAGGTCCACATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCCGAGTCCGTCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCGATAAGGGAGGCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCGATAGTCAGGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCGATAGTCTGGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCGATAGTGCGGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCTCCATCGACCCAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCTCGTAGGTCCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCTCGTCACGCGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCTCGTTCCTTGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGCTTCGTCTTGGTGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGAGGAAGCATCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGATCAGTGGCTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGGAAGTCCACAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGGAAGTCTATCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGGATTAGAGAACCC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGGATTAGAGCGACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGGATTAGGAACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGGCTGGTGCGACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGTACAAGATGACAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGTACAAGCGTCGAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGGTACACATGACGAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTAACGAGGCTTTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTAAGCTCTCCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTACAGAGGGAGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTACAGTCTCATTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTAGACGTATGCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCAGAAGTTGAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCCACAGCCGCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCCACCACTACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCCACCATTGGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCCCAGTGTAGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCCCATCTGCCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTCCTGAGCATTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTGAGTAGTGCCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTGAGTCAGGTAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTGAGTGTCTGTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTGATGAGCTGAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTGGCGGTAGTACGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTGTGAAGGATGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTACTTCGGTGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTCTAAGCAGCCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTCTAAGGGCATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTGAGAGAATTTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTGAGAGTACTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTGGAAGGTCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTGGAGTAAGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TGTTGGAGTGGCCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAATCCGTGTATCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTACCATGTAGCTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTACCGCCACCTCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGCACACATTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGCACATTGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGCATCTTCCCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGGTAGCCACAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGGTGTCCAGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGGTTCAAACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGGTTCAGCTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGGGTTCGCTAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTAGTCTTCCGAAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCAATCAGGTGAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCACCGTCCCGTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCACGCAGACATACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCACGCTCATCAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCATGTCACTCATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCATGTTCCGGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCATTGGTCCGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCAATCAGTTAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCACGAGCGTATAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCACGGTCATCGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCGTGAGAGTGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCGTGGTGTTCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCTAACATCACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCCTTCCACCGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCGATTCAGTAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCGCTGCACCGTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCTCTCGTCAAACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCTTCCAGGTACTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCTTCCAGGTTCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCTTGAGTTGTGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTCTTGATCGCAATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGAACGAGTCTGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGACCCAGTCATACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGAGTGCAATCACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGATGGAGTGCGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGCATTAGTGGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGGATGGTAAGAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGGGATAGTCAATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGGGCGTCATCTCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGGGTATCGTCAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGTGTTTCCTGGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTGTTTGAGTGCACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTACGTAGCCAGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTATGCCATATTCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTATGCCATTGACAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTATGCTCAGGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTCACAGTCACGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGATCGTGATGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGAGAGAAGCCTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGAGAGCGGATCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGAGAGTTACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGAGGTGCCTTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGAGTCACCCTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGAGTCCTGTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938169_ReSisTrace_Olaparib_2_pre_treatment|BT_TTTGGTTGTGTAGCAG-1",
+    "label": 1
+  }
+]

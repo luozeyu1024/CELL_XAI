@@ -1,0 +1,12 @@
+patient_id	pfi_days	chemotherapy_response_score	pfi_censored	label	label_scope	pfi_cutoff_days	source
+EOC1005	65	2	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC136	520	2	False	sensitive	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC153	393	2	False	sensitive	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC227	230	2	False	sensitive	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC3	14	2	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC349	36	2	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC372	460	1	False	sensitive	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC443	177	3	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC540	126	2	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC733	83	1	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1
+EOC87	30	1	False	resistant	patient_platinum_outcome_PFI_derived	180	https://pmc.ncbi.nlm.nih.gov/articles/PMC8865800/#T1

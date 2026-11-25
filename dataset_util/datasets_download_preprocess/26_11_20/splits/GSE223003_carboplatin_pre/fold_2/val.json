@@ -1,0 +1,3618 @@
+[
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAACCCAGTCCTACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAACGAATCGAAGAAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAAGGATAGAGCAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAAGGATGTCAGGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAAGGATTCAAGTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAAGGTAAGTGGCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAAGGTAGTGATGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAATGGAGTCTCCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACAAGAAGCTAAACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACAAGACAAGCACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACACACCATCCTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACACACGTGGCGTAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACAGGGCAGTCGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACAGGGCATTAAGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACAGGGGTTCAAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACAGGGTCTATCCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACCACATCGCAATGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACCATGAGCGACATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACCATGAGCTAGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACCATGCACCGTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACCCAAGTCGCATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACCCAAGTGTGTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACGTCAAGGATACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AACGTCAAGGTGAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGAACAGTTCAAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGAACATCCTCTCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGACAAGTTACCTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGATAGAGTAGACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGATAGGTGCTTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGATAGTCGGTCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGCATCAGATCGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGCATCAGCTGTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGCGAGAGTTCCTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGCGTTGTTCGTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGCGTTTCAGCTCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGGTAAAGGATAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGTGAAAGGAATCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGTGAACACAGAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AAGTTCGTCCATCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATCACGCAATAACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATCGTGGTGCAACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATGAAGAGGTCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATGCCACAAAGTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATGGCTAGGACTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATGGCTTCATGAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AATTCCTAGTTTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACAAAGAAGCACGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACAACCAAGGCCACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACAACCACAAATCGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACAAGCTAGACCGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACAAGCTGTTAGTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACACAGTCAGAAGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACACGCGGTGCACATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACAGAAAGTACCCGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACATGCAGTCACCTTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACATGCAGTTGAGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACATTTCGTCCGGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCACAAAGGTAAGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCATTTAGTTTGTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCATTTTCTCCCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCCAAAGTAACGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCCTCATCTACACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCGTTCCAGAACGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCTACCTCGCCACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCTGAACAAGCGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACCTGAACACTGGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGATCAGTGAATTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGATGTAGATGTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGCACGTCACTCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGGAAGTCAGACCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGGTCGGTACCCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGGTCGGTGGCTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGGTCGTCCATACAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGTAACAGGTAAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGTACATCGTCAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGTAGTAGTCTCCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACGTCCTGTAACAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTACGATCTTTACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTATCTTCCATTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTATTCCAGACCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTCCCAAGACTCGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTCCCAAGGGTCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTCCCACACCGTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTCCCACAGGACTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTGCAATCGCCGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTGTCCAGACCAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTGTCCTCTACGCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTTATCAGAGAATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTTCCGTCCGTGTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTTCCGTCTCGACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTTTCAGTTCTCACC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTTTCATCTCGTGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ACTTTGTGTTCTTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAACAATCCGGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAACAATCGCCGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAACCTAGACTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAAGTATCTTTGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACAAAAGGCCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACACTAGTACTGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACACTAGTCTAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACAGGAGAATAACC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACAGGGTCGCACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACCATAGGCGTTGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGACCCGCAGTCGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAGCAGCAGTAGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAGCAGCATCCGGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGAGCAGGTTAACAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGATAGACAGCTGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGATGAAAGCTAGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGATGAAGTGTATCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGATGAATCAGGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGATGCTGTGAGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCATCAGTTAGGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCAATGTAGAGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCAATGTATACGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCAATTCATGTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCACGAGAGGTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCACGCAGCTACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCAGCGTACGAGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCCAGCGTTGGGATG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCGATTTCATGCATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCGCTGTCCATTGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCGTCGCAAGGTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCTCAAGTATCAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGCTTCCAGAGAGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGAAATCACTAGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGAAATCAGTGGCTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGAGGTTCCCAGGCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGAGGTTCTATACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGAGGTTCTGTCCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGCATTGTCCAGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGCCACTCTGTGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGCTGCGTCCAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGCCTAGTAGTGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGCTCGTCGCAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGTCCGTACAACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGTCCGTATCGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGTGATCACGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGTTTCAACGTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGGTTTGTAAGGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTAGGTCGCACGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTCATGTAGTCCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTCTACACAATGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTCTATCCATACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTGTTGTCAATGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTGTTGTCTGCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGGTGTTGTTCCAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTAACCGTATCGTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTACCATCCCTTTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTACTGGTCTGTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTAGCTCAAGCGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTAGTCAGCACGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTCAACGTGGTTTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTCATGGTCTGTCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTCTCCCATCGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTCTCCTCACGGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTGACTCATAAGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTGACTGTCCATACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTGATCGTGATGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTGTTGAGTAACGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTGTTGGTATCGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTTCCCAGAGTGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_AGTTCCCCATATTCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATACCTTGTTAAGTCC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATACTTCCATTGGGAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATAGACCCAAGGAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATAGACCTCCATTTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATAGGCTTCGATTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATATCCTAGCCGTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATATCCTCAGGCAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCACGAAGCCTGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCACGAGTTGCGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCAGGTAGAATTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCAGGTAGCTCACTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCAGGTAGTCACTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCAGGTGTCGAAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCCATTGTCATCGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCCTATCACTAACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCGATGAGGTAGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCGCCTCAAATGGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCGCCTTCGAGAATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCGGATTCGTTCTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCGTCCCATTGGGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATCTTCATCGTTTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGAAAGCACTCCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGAGGGAGCCATTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGAGTCCATCGAGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGATCGTCATCGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGGAGGGTTTAGAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGGATCAGTGTTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGGGAGAGAGTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGGTTGAGTGGATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGGTTGTCATTTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGTCCCAGTTGCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATGTCTTCAACAAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTACCTTCTACCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTACTCCAATAGGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTATCCCAATAGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTATCCGTGGTTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCCATTCGTGGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCCCGAGAGCACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCCCGGTACACTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCCCGGTGGCCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCCTAGTTCGTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCCTATCTGCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTCTACTCATCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTGGGTTCAAACCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTGTTCAGACGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTTCACAGGTCCAGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTTCACAGTGGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTTCACTCCGGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTTCACTCTTAAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_ATTTCTGTCATAGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAAGAACAGAGATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAAGAAGTCAACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACAACAGTGGATAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACAACCAATTTCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACAACTCCTGTTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACAGTAGTGAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACCAAAGCCGCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACCAAAGGGCAGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACCTCTCAGCGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACGATAGGTACCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACGATTCACACCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAACGGCTCACCCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAGACTAGTCTACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAGACTGTCCTCAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAGAGGAGATTGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAGAGGCATTCGGGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAAGCTAAGAGGTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAATGACTCCATCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAATTTCGTACGTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAATTTCTCCAGTACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACAACAGTATTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACACAACACACCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACACAACACTAACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACAGATGTGTTCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACATGAGTACTTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACATGATCCATCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACCAAATCACCCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACCGTTAGGTAAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACCGTTCAAACCGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGGGTGTTCCGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGTGGCACGAAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGTGGTCGACGCTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGTTCAGTCAACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGTTCCAGCCTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGTTCCATGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACGTTCTCCGAAATC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACTGAAGTGAACTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACTGAATCCGAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CACTGTCGTCGCTTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGAGCCCAGAGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGATACAGAATCGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGATCAGTACCTAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGATTGAGTGACACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGATTGCAATGGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGCAGCAGCTGACCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGCAGCGTTGTTTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGCCAGAGTTGGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGCGTGCAACTCATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGGCCACAATGAAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGGTATCACGGCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGGTATGTCATAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGTGCGAGTAGGAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGTGCGGTATCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CAGTTAGTCTCTAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATAAGCTCCGATCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATACAGAGCGAGGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATACTTAGGCTTTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATCGGGAGCCTTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATCGGGCAACAGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATCGTCAGGATGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATCGTCTCCTACGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGAGTCACAGAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGAGTGTCGTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGCAAAGCGACATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGCAACAAACCACT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGCAATCACCTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGGATGTGTATTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGGTAAGTAACCGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATGGTAGTTTGTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTCATAGTGGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTCATGTCTAACTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTCATGTCTGCAAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTCATGTTATGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTCTACATCCTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTGAGAGACATCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTGCCGTACCTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTGCCGTCATCCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTGTTAGGTAGTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTTCACAAACGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CATTTCATCACCTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCAAGCGAGGCCACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCAAGCGCACACAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCAAGCGTCCGGTAGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACACTGTTCTAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACCATAGGGCAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACGTTGTAGGTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACTTGAGGTGGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACTTGCAGGTTCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACTTGCATGGAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCACTTGTCTAGAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCATAAGGTATCGTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCATAAGGTCTGTAGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCAACTCAGATCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCAACTGTGAGCCAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCAACTGTGGTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCAACTGTGTAAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCATTGCATCCGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCATTGTCTACCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCGAAGGTAGCGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCTCTCCACGGGTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCTGATAGGTGATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCCTTAGAGCGTGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGAACGAGATGACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGATGGAGAGGTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGGGTACATGTGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGGGTATCAGGACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGGTAGGTATAGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGGTGAGTGACAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCGTGAGGTAGACTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTAACCCAAACTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTAAGAAGCCTTCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTAAGAGTCGGCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTACGTGTTCTTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTATCGGTATGCTTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCAACAGCTCCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCACATCCACCTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCTAGAGCATACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCTAGAGTCGTTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCTAGGTGGTCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCTCCTCGCTTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTCTCCTCGGTTAGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTGCATTCTTCCGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTGTTGGTGAGGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTTGTGCAAAGTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CCTTGTGTCAAGCCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGAATTGCAAATCCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGAGGCTAGACCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGAGGCTAGGCGTTGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGAGTTAGTGTTCCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGATCGGTCCGTATGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGATGCGTCGTCCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGATGGCGTATAGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGCATGGCATTGACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGCGTGAAGTTGCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGCGTGACACACAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGCGTGATCTGAGTCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGAACCTCGGTAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGAGAAAGGACTATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGCAGTAGAAGAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGCAGTCAACACGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGCAGTCACGGCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGACTCAGTAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGACTGTTGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGCATAGGAGGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGCATAGGGAGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGCATGTGGCATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGCATTCGGCTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGGGTGTGTCTCTCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTAAGTCAGCTATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTAATGCAAAGCTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTCAAACATCATCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTCCATGTCGTTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTGAATAGAAATTCG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTGAATCACCTCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTGCTTAGAGGCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTGCTTTCCCAGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTGCTTTCTTGATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTGTCTGTCGCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CGTTCTGCAGAGTAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTAACCCAGCACGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTAAGTGAGACGACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACATTCAACTCCAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACCTGAGAAATTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACGGGCAACTACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACGGGCACCTCTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACGGGCATCATCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACTATAGATCCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTACTATCAGGACTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTAGACAGTGGCTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTAGACATCCGAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTAGGTACAGTAGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTATAGGAGAAAGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTATAGGCAGCTACCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTATAGGGTTTGGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTATCCGAGAGGCGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAACCTCGGCGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAAGAAGGTCATTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAAGAGTGTCGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAATTGTCCTCAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAGAAAGGTATCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAGAACATATGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCAGTCCACTGTGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCATCGGTCAACATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCATGCAGGGCCAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCATGCCAGCGTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCATTACATCGGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCATTAGTGATAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCAACAGACCAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCAACGTGAGGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCAACTCCGTAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCCAAAGTGGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCCAACAAGATCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCCAATCGTTGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCTCCGTATGAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCCTTTTCTTGGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCGAGGTCTCGAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCTCGAAGCTCGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTCTCGAGTCGTGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGAGCGAGACTACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGAGCGGTAGCGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGATCCGTCATGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGATCCTCCGTAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGATCCTCTCATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGCCATAGCGACTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGCGAGGTTGGACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGGACGAGCTTCATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGGACGGTACTCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGGTCTCATCCTAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGGTCTGTACAACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGGTCTGTCGTACTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGTACCGTACGACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGTACCGTATCAAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGTAGAGTGATTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGTATTGTATTGAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGTGAAGTGACTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTGTGGGCAGCATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTCAATCACGAAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTCCGAAGCGCAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTCGGTTCTTTCCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTCTCTAGATCACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTCTCTGTGACTGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTCTCTTCCCGGTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_CTTGAGAAGGAGGCAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAAACCTGTGGACCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAAATGAAGTGCTCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAAATGACACATACTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAACGTTGTGATGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAACTGTAGAGTATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAAGGACGTATCTTCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAAGGACTCGACGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAAGTAAAGCCTAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAATAGATCATTGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAATCGTGTTGGGATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACAGCCCACAGAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACAGCCGTAGTCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACAGCCTCTGGCCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACCCAGAGGTGATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACCGTGTCCCAACTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACGCTGGTCGCATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACGTTAGTTGTTGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACTATGTCACCTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACTCAAAGCAGGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACTCAATCCTAGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACTGATAGTGGTTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GACTTCCAGTAGGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGACCCCATGCCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGACTTTCATTCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGAGGTGTCTCACAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGATGGTCCAGTGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGCCTGAGGTTGCCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGCCTGGTAGGTTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGCTGCCAACACGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGCCTAGGATACGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGCCTCAATGGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGCCTTCCGACATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGGTACATAGGTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGGTAGTCTGTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGGTAGTGAACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGGGTATCACTGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGTGTTGTGGGAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGTTACAGACTAAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGTTACAGTGAGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GAGTTACCAGCCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATAGAACATTAGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATAGCTAGGGAGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATAGCTTCTGAGTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATCACATCCTAAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATCATGCAATCTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATGACTAGGAACGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATGACTGTCAATCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATGGAGTCAAGGAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATGTTGTCCATTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTCGAAGTGATAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTCGAGTCCCTAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTCTTAGATCGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTCTTGTCGACGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTGGTAGAGTGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTGGTAGGTTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GATTTCTTCCGTAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAACCGGTATCACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCACTAACAGAAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGCCACAATTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGCCAGTGTTAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGCCAGTTGTGGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGCTGAGGAAAGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGCTGAGGCTATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGTTAAGCTTAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCAGTTATCTCTAAGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCATCGGAGGGATCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCATCGGAGGTTACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCATGATCAATCAGCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCATTAGAGTACAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCATTAGTCGAGAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCATTAGTCTTCGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCAACGAGGTAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCAGCATCCTCAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCAGGTGTCGTGGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCAGTGCATGTGACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCATTCGTGTTACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCATTCTCAACACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCCAGAGTCTCTCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCCAGATCATGAGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCCAGATCCGTATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCCGAATCACTACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCGATGAGACATAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCCGATGTCGTTCGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCGATCGCAGCTCCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCGGATCAGGAACATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCGTGCATCGGTATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTACCTCACAACGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTCAAAAGATCCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTCAAACAGTATACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTCAAATCCCATAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTGAATGTGGCGTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTTCACAGCAAATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTTGGGGTGGCTTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTTGGGTCGGACTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTTTCGAGGTCCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GCTTTCGGTCCTGGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAAGTGCATTGGATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAATCTTCTGTCGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAATGGGTCCAAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGAACGTACCTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGAACGTATGATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGATGGTCCCAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGATGTCGGAGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGCAAAGGGTAATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGCAACAGCACAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGAGGTACATAGGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGATCTACAACCGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCACGTAGGTCCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCAGTCAGGCACGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCAGTCAGTCTAGCT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCTGTGCAGCCTATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCTGTGGTCCGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCTGTGGTGACAGGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCTTTCCAATCTAGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGCTTTCCATTGTCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGAAGTCATGAGGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGACAAAGACGAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGACAAAGAGGCGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGACAACAAGTAGTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGAGATAGTGGTTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGCCATAGTCATTGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGCCATGTCTGTTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGCGTTGTTAACAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGCTACTCAAGGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGCTACTCAATCCAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTAGACACTAGAGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTAGAGTCGAACGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTATTAGGAGCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTATTCAGCCTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTCTGGTACCTATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTCTGGTTCCGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTCTGTCCCTCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTGTCGTACTAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTTATCATGAATAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGGTTATGTAGGACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTAACTGTCGTATGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTGAAGCAGATACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTGATTAGGGTTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTGATTTCGTACCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTGTTACAGACAATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTTCTCTCAGCAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GGTTCTCTCCACAAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAACCAAGCTCGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAACCATCAAGTGGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAAGTCCAGAGGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAATCGTCACTGTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAATCGTCGTTGCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAATGCTCGCGATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTACAACAGCTCCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTACAACTCAAGAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAGAAAGTTTGATCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAGAGGTCTCCATAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAGATCGTGTGTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAGGTTTCTGCGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAGGTTTCTGTGCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTAGTACTCAGCCCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTATTTCAGAGATCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTATTTCGTGTCCATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTATTTCTCGTCCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCACGGAGAGGGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCATGAGTATGAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCATTTAGCCTTTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCATTTTCGCCTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCCACTGTCCCGTGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCCACTTCGCAATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCCCATGTGAGAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCGCGAAGTCACTAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCGCGAGTCGCATTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTAGACAGGGATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTAGAGTGGCTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTCACGTGGCTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTGTCTCCGACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTTTACAAGTTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTTTAGTATACCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTCTTTAGTTTGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGAGCCTCTGCATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGAGGAGTTATTCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGAGGATCCATAGAC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGAGTTGTACTCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGCACGTCCATCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGCACGTCTATCGCC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGCAGCAGTACAACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGCGTGTCGCTACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGCTGGTCACACGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGGAAGTCATCTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGGAGAAGATTAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGTCCTTCAGATGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGTGATGTGAGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTGTGATTCGGTTGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTACAGGTTCCGCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTACGAGTCTCGGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTACGATCCTACACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTACGATCTACACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTAGTGCATCGGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTAGTGTCGCAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTCATTAGTCATTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTCGCTAGCTAAACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTCGCTGTAGATGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTCGCTTCCAAATGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTGCTCAGTCATCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTGTAGTCTCTCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTGTCCGTACGAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTGTCCTCGTTCTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTGTGAGTCTGTGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTTACTAGACCAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTTACTTCTACCTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTTGGACAAAGGGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_GTTTGGATCGGTTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAACCAGGTGAGTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAACCAGTCGTGCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAACTTCCATCCTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGCACGTGACTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGCCAGTTGAATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGCCATCAATCTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGCGTCAAGTCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGCGTCACGAGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGCGTCACTCGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAAGTCGTCGGTGAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAATTCCAGTCTGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAATTCCCAGCGACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACAACGCAAGAGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACAGGTGTACAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACATTCCAAAGGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACATTCTCCAAGAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACCCGTGTGCATCTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACCGAAGTAGTATAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACCGGGCACGAGGTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACCGGGGTGGCAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACCTCGGTCGTAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACCTGCGTTTGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACGCTCAGTTGCGAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACGGGCAGTTGGCGA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACGGGCCAGTGTGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACGGGCTCAAAGAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACGTCCAGCTGCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACGTCCGTTAATGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACTTACCACTTCAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACTTACGTGGACCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACTTGTCACGCGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TACTTGTGTCGTCGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGACCAGTCGGTGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGACCATCAACCTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGATCGTCAAGTCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGATCGTCGGCTTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGGAGGAGCGCTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGGTACGTGACAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGGTTGGTACCTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGTGCATCAACTGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TAGTGCATCATGCGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATCAGGAGGGCAGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATCGCCGTCGGTGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATCGCCTCGTCTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATCTGTCATGGAAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATGTTCCATCTGCGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATTGCTAGCGTTACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATTGCTAGCTGTTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATTGCTAGGTTCATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATTTCGGTAACAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TATTTCGTCTGTCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAATCTCACCGTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAATTCAGACTGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCACACCTCCCAGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCACGGGCAGTAACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCACGGGGTCCACACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCACTCGTCGCTGATA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGCAAAGTCACGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGCAACACGTGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGCAAGTCTTGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGCCTAGTCGCCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGGTAAGCCTGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGGTATCAGGAAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCAGTTTTCGTCAACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATACTAGCAATTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATATCGTAGCTGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATATCGTAGTCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATATCTCGATTGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATCATCAACCCGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATCATGTTGCCGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATCCGCAGTAGTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATGAGGTTGAAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATGAGTCACACCCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATGTTAGTTTCAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATTACGTCCAGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATTGTAGTGGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATTTGAGGACGCAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATTTGCAATTCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATTTGGTCATCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCATTTGGTGAACGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCACCAAGCGAGAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCACCACAATCGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCACGTCAGCGTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCACGTCAGTAGAAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCACGTGTATTGACC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCAGAAAGTCTACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCAGAAGTGGCGTAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCATCGCACCAGCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCCACACAGCCGGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCCATGAGCCTGCCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCCATGTCGAACACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCCATGTCTATGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCGAAACACTAACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCGAAATCACCGGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCGTGTGTTGTCTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTCCCCAGCACACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTCCCTCTAGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTCTTAGACTCAAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTCTTCAGGGCTTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTGCACATGACAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTGCAGTTCTCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTGCATCGCGGACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTTCTAGCGGGTTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTTCTAGGCATGGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTTCTTCTAGGCCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTTTCTCACTGTTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCCTTTCTCCATTCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGAACATCACCTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGAAGTCAGAATTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGACGGGTAGGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGCAGGCATCGAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGCAGGTCAAATGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGCAGGTCAAGCGTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGGATAGTGGCTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGGATATCAAAGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGGGCAGTACGATGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGTAGATCGAAACAA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGTGCTAGTATAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCGTGCTCAGAATTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTACATAGCTTGTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTACATCAGTGCCTG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTATACGTACAGTTC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTATACGTCATACCA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTATCACATGACTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTATCACATGTAACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTCACGCAACTTCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTCACGCAATTCGTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTCACGCACAGACGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTCCGATCCCATAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTGGCTTCGATACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTTCCTAGTGGACTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TCTTGCGCAACGACTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAACGTGTACTGGGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAATCGGTAGGAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAATCGTCACATTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAATGCCATTGACAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAATGCGTCCGCAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAATGCGTGTACGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAGCATTCCTCACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAGCGCAGTTGAATG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGAGGTTTCGGACTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGATCAGAGAGGTGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGATCTTGTACAGTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGATGGTAGGCTCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGATTCTGTGGCTTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGATTTCCATTCACAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGATTTCGTCTACACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCATCCCAGGACAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCATCCGTGGATCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCATGACACCAAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCGACGCAACAAGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCGATAGTCATTGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCGGCAAGGAGCTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCGGCAAGGGAGGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCGGCACATAGTCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCGGGTCAGGACTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCTCCAAGGTGCGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGCTCGTAGGTAAACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGAACTAGGGTAGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGAGGAGTAAGCAAT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGCGTGGTGAGAGGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGGAAGAGTGCGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGGATTGTTGGGATG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGGCGTCAGATTAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGGCGTGTAGAGATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGGTTACACTGTTCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGGTTAGTGACATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGTACACATCTCAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGTAGTCAGAAGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGGTTAGAGATGTAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTAAGCAGTCACAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTACAGAGAAGGCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTAGACAGCCGTTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTAGACGTTCGAAGG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTCAGAAGTGGACGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTCAGATCCCAGGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTCCACTCTGGAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTGATGAGTCTCCTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTGATGCAGCGTAGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTGGCGCAGTCACGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTGTGATCCTCACCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTACTAGACTACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTCATCAGAGTCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTCATGTACAAGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTCCGGTTAAGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTCTAGTCGGTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTCTATCCCTCAAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTGAGCACTTGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTGAGCATGGCCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTGAGTCCCAGGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTGGACATGAATCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTGGAGTAGTCACT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTGGAGTCATAAAG-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTTGTAGGTTACCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TGTTTGTGTGCATCTA-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTACAGGCATAATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTACGCCTCGCTCTCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTACGTTGTGACAACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTACTGTCATGACTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTAGGCATCCTTATAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTAGGGTTCGTTAGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTAGTCTGTCACGACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCACCGGTACGGGAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCACCGGTAGGTAGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCACGCTCCCGATCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCAGGATCATTGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCATGTCAGTCAGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCATTGAGGAGAGGC-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCCAATAGCATGCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCCACGAGCGATTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCCACGAGGGAGGGT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCCGTGCAATCTCGA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCCTTCCAGGACTAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCCTTCCATTCGGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCGATTAGCCATGCC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCGATTTCAGCAGAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCGGTCGTTCGATTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCTAACTCGTGCACG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCTCTCTCAAAGGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCTGTAAGGAGAGGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCTGTACAGGGAATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTCTTGACAGAGAAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGAACGTCACTTATC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGACCCTCGTGCGAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGAGTGGTATTCCTT-1",
+    "label": 1
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGAGTGTCACTTTGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGATGGAGCCAGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGCATTAGCGTCGAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGCATTTCAGACCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGCGTCAGACTACGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGCTGCAGGGTAATT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGCTGCGTTCAGCGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGGGATGTAGTGTGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGGGCGCAAAGGCAC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGGGTAGTGGTTCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGGTTTGTCGAAGCA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGGTTTTCCTGGCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTGGATCCTCCACA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTGTTCATCAGCTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTGTTTCATGAGTC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTTCAGTGGCTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTTGTAGACAGCTG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTTGTAGTATGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTTGTTCCGTTTCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTGTTGTTCGGTAAGG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTACGTAGACATGCG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTACGTCATTCCTAT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTACGTGTTGCTCAA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTAGTCCATACCGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTATGCCAGGATCTT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTCACATCCTAGAGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTCATGAGATGGGCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTCATGTCCTGTACC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTCCTCAGCCTCCAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTCGATAGGTCCCGT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTCGATCAAGAGTGC-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTGACTGTCCTTAAG-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTGGAGGTACAAGTA-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTGGTTAGCAACTCT-1",
+    "label": 0
+  },
+  {
+    "cell_id": "GSM6938163_ReSisTrace_Carboplatin_1_pre_treatment|BT_TTTGTTGCAACCAACT-1",
+    "label": 0
+  }
+]

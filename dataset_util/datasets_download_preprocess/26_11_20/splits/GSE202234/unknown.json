@@ -1,0 +1,802 @@
+[
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAACCAGAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGAGCCACC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGTGAATGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACATACTAAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTGTTGAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATAGGTCCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCATATAAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTAGGCACT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTGTGCAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGACGCGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTTTGGTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATATTCCCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATCGATCAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCGCCGGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCATGAGAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATTGGATTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCGGATCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTAATAGAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAATTGGGTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGCGTCCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCCACCTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTAGAGCTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCAAACTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGTAGGTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACATAGCGAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATGTGTGTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTGCCCCCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCGCTCAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACACAATGCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACTGTCTGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGCAAAAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTATAACAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGCGGACC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGACGTAGCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACACACTGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGTGTGCCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCTAAGCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTTGCTTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAATAGTGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACAACGTCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGAAACTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTTGCCGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGTTGGTCA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACATAGAGAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCATGTCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGGAAGGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTAGGATCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGATTTGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCGCGTTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCATATTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCGGATGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATTACAGTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGCTTGAAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAACTGCTTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATGCAAAGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGACATGGGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAGAAACCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTGACGGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACACGCGGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGCCACGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTGCTCAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACAATCATAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCGTCCTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACTGACAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATAGTTGGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACTTCTCTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCTACGAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCATATAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGGAGCGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTATTCCTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACATATGGAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAAGGAAGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGTTCCAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCCCCCGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGGTGAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAAGAGTGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAATTGTAGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACACCTTTCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATACATACG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGATTGCGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCGGAGCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGATTGTCGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACACGAGAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCTTTCTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGACGTACTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGGAAAAGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGGCAGAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTTAGGCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAACTTTGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGTGTGTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATACTCACC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTCACCTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTGTACCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACATTAAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGTCACATG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTACACTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGTACGTAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTCTGATG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATGGATCAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATGCGCGTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACACAATTCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACAGGTAAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCAAGTGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGTAAGGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCCACATT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATGTGGCTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGGCCCTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTACGAATG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGATTCAGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATTGCGACG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATCGCAAGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGTAAGTCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGATCCGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTGGTACGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGCTATATT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTAGTCTCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTTCTAGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGATTTGCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGAAGTCAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCCCTTAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGACCAGAGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGTGACGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGATCATGTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGCCATCA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCCATTAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCTTCCGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACAGCAGAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGCCAGCC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGAGACGAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGTTGGTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACACATTATA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATTACATTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTATTAGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAATTATCGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCCAGAAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTGACAAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCCCTTAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGATGGTGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTAAAGTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACAACCTGCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAACAAGCA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATCTGACTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCAACAGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCCAATAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAATTTAGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGCTCAAGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACTAGATAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAACAGCAAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGGCGTAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTACCGAGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAATAGCTGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGTTAATTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATCTATGAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTACGTCAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCAGCTGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATAACAGAC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGGTGGGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGTACGTCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCGCTGCTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCAGTAGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATACGCGTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACACCAGCGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACCCGGGGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGCCACCGC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGAAATCAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATTTTTTGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTCTTACTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTTCTCCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTTTGTATT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGTTGACA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTGGGCTCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATAAAGTAG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGATCATC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGACGATAAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGTGGCTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTATCATAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAATACCGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACACCATAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAAACCGCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCCACACTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGCATATA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACACAAGCTC",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACAAGGAAGG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAGAAATGTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACAGCGTCG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACTGGTCTTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACAGGGGTAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAGACGATA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAATAATAAGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGAACCCAAA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACAACCTGA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGAGGTTTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGTGGTGT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACATTTCTAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGGGGTGTA",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAACGGCGGCT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACGAGCACTT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAGACCGGGAT",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAAAAGGTGTTG",
+    "label": -1
+  },
+  {
+    "cell_id": "GSM6106788_AAAAAAAAAACCTCTTCAA",
+    "label": -1
+  }
+]

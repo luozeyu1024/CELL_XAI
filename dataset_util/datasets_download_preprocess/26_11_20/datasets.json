@@ -1,0 +1,302 @@
+{
+  "datasets": {
+    "GSE140440": {
+      "gse": "GSE140440",
+      "n_cells": 324,
+      "n_genes": 60554
+    },
+    "GSE223779": {
+      "gse": "GSE223779",
+      "n_cells": 23134,
+      "n_genes": 33538
+    },
+    "GSE149383_PC9_DTEP_sample_grouped": {
+      "gse": "GSE149383",
+      "n_cells": 4717,
+      "n_genes": 30779
+    },
+    "GSE165897_pre_EOC": {
+      "gse": "GSE165897",
+      "n_cells": 4567,
+      "n_genes": 32847
+    },
+    "GSE223003_carboplatin_pre": {
+      "gse": "GSE223003",
+      "n_cells": 8942,
+      "n_genes": 31624
+    },
+    "GSE223003_nk_pre": {
+      "gse": "GSE223003",
+      "n_cells": 10123,
+      "n_genes": 32000
+    },
+    "GSE223003_olaparib_pre": {
+      "gse": "GSE223003",
+      "n_cells": 9394,
+      "n_genes": 31994
+    },
+    "GSE163836": {
+      "gse": "GSE163836",
+      "n_cells": 17202,
+      "n_genes": 32738
+    },
+    "GSE202234": {
+      "gse": "GSE202234",
+      "n_cells": 1857,
+      "n_genes": 20298
+    },
+    "GSE223779_TS485T": {
+      "gse": "GSE223779",
+      "n_cells": 23672,
+      "n_genes": 33514
+    },
+    "GSE154600_EPI_external": {
+      "gse": "GSE154600",
+      "n_cells": 7793,
+      "n_genes": 33514
+    }
+  },
+  "source_designs": [
+    {
+      "dataset": "GSE140440",
+      "fold": "single",
+      "group_key": "random_cells",
+      "n_train_cells": 226,
+      "n_validation_cells": 65,
+      "n_test_cells": 33,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE223779",
+      "fold": "single",
+      "group_key": "random_cells",
+      "n_train_cells": 16193,
+      "n_validation_cells": 4627,
+      "n_test_cells": 2314,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE149383_PC9_DTEP_sample_grouped",
+      "fold": "fold_1",
+      "group_key": "sample_id",
+      "n_train_cells": 2060,
+      "n_validation_cells": 515,
+      "n_test_cells": 2142,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE149383_PC9_DTEP_sample_grouped",
+      "fold": "fold_2",
+      "group_key": "sample_id",
+      "n_train_cells": 1713,
+      "n_validation_cells": 429,
+      "n_test_cells": 2575,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE165897_pre_EOC",
+      "fold": "fold_1",
+      "group_key": "patient_id",
+      "n_train_cells": 1716,
+      "n_validation_cells": 1880,
+      "n_test_cells": 971,
+      "inner_validation_group_disjoint": true
+    },
+    {
+      "dataset": "GSE165897_pre_EOC",
+      "fold": "fold_2",
+      "group_key": "patient_id",
+      "n_train_cells": 958,
+      "n_validation_cells": 768,
+      "n_test_cells": 2841,
+      "inner_validation_group_disjoint": true
+    },
+    {
+      "dataset": "GSE165897_pre_EOC",
+      "fold": "fold_3",
+      "group_key": "patient_id",
+      "n_train_cells": 2638,
+      "n_validation_cells": 1367,
+      "n_test_cells": 562,
+      "inner_validation_group_disjoint": true
+    },
+    {
+      "dataset": "GSE165897_pre_EOC",
+      "fold": "fold_4",
+      "group_key": "patient_id",
+      "n_train_cells": 2494,
+      "n_validation_cells": 1880,
+      "n_test_cells": 193,
+      "inner_validation_group_disjoint": true
+    },
+    {
+      "dataset": "GSE223003_carboplatin_pre",
+      "fold": "fold_1",
+      "group_key": "biological_replicate",
+      "n_train_cells": 3538,
+      "n_validation_cells": 885,
+      "n_test_cells": 4519,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE223003_carboplatin_pre",
+      "fold": "fold_2",
+      "group_key": "biological_replicate",
+      "n_train_cells": 3615,
+      "n_validation_cells": 904,
+      "n_test_cells": 4423,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE223003_nk_pre",
+      "fold": "fold_1",
+      "group_key": "biological_replicate",
+      "n_train_cells": 5008,
+      "n_validation_cells": 1258,
+      "n_test_cells": 3857,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE223003_nk_pre",
+      "fold": "fold_2",
+      "group_key": "biological_replicate",
+      "n_train_cells": 3082,
+      "n_validation_cells": 775,
+      "n_test_cells": 6266,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE223003_olaparib_pre",
+      "fold": "fold_1",
+      "group_key": "biological_replicate",
+      "n_train_cells": 3748,
+      "n_validation_cells": 937,
+      "n_test_cells": 4709,
+      "inner_validation_group_disjoint": false
+    },
+    {
+      "dataset": "GSE223003_olaparib_pre",
+      "fold": "fold_2",
+      "group_key": "biological_replicate",
+      "n_train_cells": 3762,
+      "n_validation_cells": 947,
+      "n_test_cells": 4685,
+      "inner_validation_group_disjoint": false
+    }
+  ],
+  "download_resources": {
+    "GSE140440": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140440/suppl/GSE140440_RAW.tar",
+        "path": "GSE140440/GSE140440_RAW.tar"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE140nnn/GSE140440/soft/GSE140440_family.soft.gz",
+        "path": "GSE140440/GSE140440_family.soft.gz"
+      }
+    ],
+    "GSE223779": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223779/suppl/GSE223779_RAW.tar",
+        "path": "GSE223779_expand/GSE223779_RAW.tar"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223779/soft/GSE223779_family.soft.gz",
+        "path": "GSE223779_expand/GSE223779_family.soft.gz"
+      }
+    ],
+    "GSE165897": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165897/suppl/GSE165897_cellInfo_HGSOC.tsv.gz",
+        "path": "GSE165897/GSE165897_cellInfo_HGSOC.tsv.gz"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165897/suppl/GSE165897_UMIcounts_HGSOC.tsv.gz",
+        "path": "GSE165897/GSE165897_UMIcounts_HGSOC.tsv.gz"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165897/soft/GSE165897_family.soft.gz",
+        "path": "GSE165897/GSE165897_family.soft.gz"
+      }
+    ],
+    "GSE223003": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223003/suppl/GSE223003_RAW.tar",
+        "path": "GSE223003/GSE223003_RAW.tar"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223003/soft/GSE223003_family.soft.gz",
+        "path": "GSE223003/GSE223003_family.soft.gz"
+      }
+    ],
+    "GSE154600": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE154nnn/GSE154600/suppl/GSE154600_RAW.tar",
+        "path": "GSE154600/GSE154600_RAW.tar"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE154nnn/GSE154600/soft/GSE154600_family.soft.gz",
+        "path": "GSE154600/GSE154600_family.soft.gz"
+      },
+      {
+        "url": "https://dl.dropboxusercontent.com/s/cu0pxp0sepsvhos/sample59_sce.rds",
+        "path": "GSE154600/author_annotations/sample59_sce.rds"
+      },
+      {
+        "url": "https://dl.dropboxusercontent.com/s/taff3g6nlmf5yk4/sample76_sce.rds",
+        "path": "GSE154600/author_annotations/sample76_sce.rds"
+      },
+      {
+        "url": "https://dl.dropboxusercontent.com/s/2otdxfunxnlr6ql/sample77_sce.rds",
+        "path": "GSE154600/author_annotations/sample77_sce.rds"
+      },
+      {
+        "url": "https://dl.dropboxusercontent.com/s/sojupsrjxnvnf6d/sample89_sce.rds",
+        "path": "GSE154600/author_annotations/sample89_sce.rds"
+      },
+      {
+        "url": "https://dl.dropboxusercontent.com/s/ydokzcxgkugo678/sample90_sce.rds",
+        "path": "GSE154600/author_annotations/sample90_sce.rds"
+      }
+    ],
+    "GSE163836": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE163nnn/GSE163836/suppl/GSE163836_IBC_sc10x_raw_counts.RData.gz",
+        "path": "GSE163836/GSE163836_IBC_sc10x_raw_counts.RData.gz"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE163nnn/GSE163836/soft/GSE163836_family.soft.gz",
+        "path": "GSE163836/GSE163836_family.soft.gz"
+      }
+    ],
+    "GSE202234": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202234/suppl/GSE202234_RAW.tar",
+        "path": "GSE202234/GSE202234_RAW.tar"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202234/soft/GSE202234_family.soft.gz",
+        "path": "GSE202234/GSE202234_family.soft.gz"
+      }
+    ],
+    "GSE149383": [
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3972nnn/GSM3972669/suppl/GSM3972669_D0.dge.txt.gz",
+        "path": "GSE149383_expand/GSM3972669_D0.dge.txt.gz"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4494nnn/GSM4494347/suppl/GSM4494347_D0C_expression_matrix.txt.gz",
+        "path": "GSE149383_expand/GSM4494347_D0C_expression_matrix.txt.gz"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4494nnn/GSM4494348/suppl/GSM4494348_D11C_expression_matrix.txt.gz",
+        "path": "GSE149383_expand/GSM4494348_D11C_expression_matrix.txt.gz"
+      },
+      {
+        "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4494nnn/GSM4494349/suppl/GSM4494349_D11_ERL_expression_matrix.txt.gz",
+        "path": "GSE149383_expand/GSM4494349_D11_ERL_expression_matrix.txt.gz"
+      }
+    ]
+  },
+  "external_annotations": "https://waldronlab.io/subtypeHeterogeneity/articles/singlecell.html"
+}

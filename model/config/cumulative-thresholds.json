@@ -1,0 +1,30 @@
+{
+  "GSE140440": {
+    "threshold": 0.6,
+    "rationale": "Training-cell protein graphs at 60% already have median largest components around 0.93\u20130.94 and isolation around 4\u20135%. Moving to 70% nearly doubles edges and measured GPU peak for a modest additional connected fraction; 80% is much more expensive. PPI remains less connected at all thresholds, so increasing nodes solely to force its connectivity is not justified. Choose 60% shared across all four priors; this is a resource/topology compromise, not a validated accuracy optimum."
+  },
+  "GSE223779": {
+    "threshold": 0.7,
+    "rationale": "Training-cell STATE graphs improve from a median largest component about 0.86 at 60% to 0.94 at 70%, while median isolated fraction falls from about 9% to 4%. At 80% median edges approximately double again for a much smaller connectivity improvement. Review all four priors and measured GPU costs before freezing 70%; use this source threshold unchanged for all FA34 external transfers. No target labels or prediction scores enter this choice."
+  },
+  "GSE149383_PC9_DTEP_sample_grouped": {
+    "threshold": 0.8,
+    "rationale": "Source-training PC9 mass signatures are short and fragmented at 50\u201370%. At 80% the median STATE largest-component fraction rises to about 0.36 in fold 1, still far from a single connected graph, but with only about 348 median nodes. The remaining isolation is reported rather than removed or repaired with invented edges. Prefer the higher tested mass at a modest node budget, subject to measured GPU feasibility in each source fold; do not tune to DTEP test performance."
+  },
+  "GSE165897_pre_EOC": {
+    "threshold": 0.7,
+    "rationale": "Source-training EOC graphs have substantially improved neural-prior connectivity at 70% relative to 60% (fold-1 STATE median largest component about 0.90 versus 0.78). The 80% graphs require substantially more nodes and edges for a smaller further connected-fraction gain. Freeze 70% if measured source-fold GPU costs fit the fixed batch, and apply each source fold policy unchanged to external epithelial cells. No patient outcomes or test scores enter policy review."
+  },
+  "GSE223003_carboplatin_pre": {
+    "threshold": 0.6,
+    "rationale": "Source-training neural-prior graphs at 60% already contain a dominant component of about 90% with approximately 6\u20137% isolated nodes and roughly 1200 median nodes. Increasing to 70% approximately doubles edges, and 80% doubles them again, for diminishing connected-fraction gains. Keep the lower-cost 60% compromise shared across four priors, contingent on measured GPU feasibility in each replicate fold. PPI missing links are not repaired by changing vocabulary or inventing edges. This is not a claim of optimal predictive accuracy."
+  },
+  "GSE223003_nk_pre": {
+    "threshold": 0.6,
+    "rationale": "Source-training neural-prior graphs at 60% already contain a dominant component of about 90% with approximately 6\u20137% isolated nodes and roughly 1200 median nodes. Increasing to 70% approximately doubles edges, and 80% doubles them again, for diminishing connected-fraction gains. Keep the lower-cost 60% compromise shared across four priors, contingent on measured GPU feasibility in each replicate fold. PPI missing links are not repaired by changing vocabulary or inventing edges. This is not a claim of optimal predictive accuracy."
+  },
+  "GSE223003_olaparib_pre": {
+    "threshold": 0.6,
+    "rationale": "Source-training neural-prior graphs at 60% already contain a dominant component of about 90% with approximately 6\u20137% isolated nodes and roughly 1200 median nodes. Increasing to 70% approximately doubles edges, and 80% doubles them again, for diminishing connected-fraction gains. Keep the lower-cost 60% compromise shared across four priors, contingent on measured GPU feasibility in each replicate fold. PPI missing links are not repaired by changing vocabulary or inventing edges. This is not a claim of optimal predictive accuracy."
+  }
+}
